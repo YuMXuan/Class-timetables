@@ -1,5 +1,5 @@
 # Class-timetables
-This program only works for SWJTU-LEEDS jiont school.  
+This program only works for SWJTU-LEEDS joint school.  
 这个程序仅适用于西南交通大学利兹学院课程表。  
 
 Based on Python, the project is for converting the curriculum in Excel format to the .ICS format that can be recognized by calendar apps on computers, mobile phones, and so on in order to automatically remind the students of the time, place and related content of the class by the calendar software.  
