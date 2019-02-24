@@ -12,3 +12,8 @@ Based on Python, the project is for converting the curriculum in Excel format to
 'conf_classTime.json' is the time of the class schedule.  
 '*.xlsx' is the imported class timetable file.  
 '*.ics' is the exported calendar file.  
+
+#Test version 1.0
+Bug: 
+1. Cannot recognize merged cells. 
+2. Calendar APPs cannot recognize 'remarks about the teacher name'.
