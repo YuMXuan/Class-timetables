@@ -6,6 +6,7 @@ import time, datetime
 import json
 from random import Random
 import importlib
+#import os
 
 checkFirstWeekDate = 0
 checkReminder = 1
@@ -25,7 +26,7 @@ sessionList = []
 classInfoList = []
 
 def main():
-    
+        #os.system("python Cat.py")
 	basicSetting();
 	uniteSetting();
 	classInfoHandle();
@@ -104,22 +105,23 @@ def icsCreateAndSave():
 	eventString = ""
 	for classInfo in classInfoList:
 		i = int(classInfo["session"]-1)
-		className = classInfo["className"]+"|"+sessionList[i]["name"]+"|"+classInfo["venue"]
+		className = classInfo["className"]+"|"+classInfo["venue"]+"|"+classInfo["mtype"]#+sessionList[i]["name"]
 		endTime = sessionList[i]["endTime"]
 		startTime = sessionList[i]["startTime"]
-		dic = classInfo["mtype"]+"|"+classInfo["teacher"]
+		dic = classInfo["mtype"]+" | "+classInfo["teacher"]
 		index = 0
 		for date in classInfo["date"]:
-			eventString = eventString+"BEGIN:VEVENT\nCREATED:"+classInfo["CREATED"]
+			eventString = eventString+"BEGIN:VEVENT\nTRANSP:OPAQUE\nCREATED:"+classInfo["CREATED"]
 			eventString = eventString+"\nUID:"+classInfo["UID"][index]
 			eventString = eventString+"\nDTEND;TZID=Asia/Shanghai:"+date+"T"+endTime
-			eventString = eventString+"00\nTRANSP:OPAQUE\nX-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC\nSUMMARY:"+className
+			eventString = eventString+"00\nDESCRIPTION:"+dic
+			eventString = eventString+"\nLOCATION:"+classInfo["venue"]
+			eventString = eventString+"\nX-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC\nSUMMARY:"+className
 			eventString = eventString+"\nDTSTART;TZID=Asia/Shanghai:"+date+"T"+startTime+"00"
 			eventString = eventString+"\nDTSTAMP:"+DONE_CreatedTime
 			eventString = eventString+"\nSEQUENCE:0\nBEGIN:VALARM\nX-WR-ALARMUID:"+DONE_ALARMUID
 			eventString = eventString+"\nUID:"+DONE_UnitUID
 			eventString = eventString+"\nTRIGGER:"+DONE_reminder
-			eventString = eventString+"\nDESCRIPTION:"+dic
 			eventString = eventString+"\nACTION:DISPLAY\nEND:VALARM\nEND:VEVENT\n"
 
 			index += 1

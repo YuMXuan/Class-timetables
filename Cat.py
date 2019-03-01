@@ -8,7 +8,7 @@ import importlib
 
 def main():
     # 读取 excel 文件
-    workbook = xlrd.open_workbook('CEY2W1.xlsx')
+    workbook = xlrd.open_workbook('1819Y3ME.xlsx')
 
     headStr = '{\n"classInfo":[\n'
     tailStr = ']\n}'
@@ -21,7 +21,7 @@ def main():
 
     week = 0
 
-    for s in range(0,20):
+    for s in range(0,len(workbook.sheets())):
         week = week+1
         print(week*5)
         sheet = workbook.sheet_by_index(s)
