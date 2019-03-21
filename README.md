@@ -6,14 +6,12 @@ Based on Python, the project is for converting the curriculum in Excel format to
 
 基于Python的，有关于将Excel格式的课程表转化为电脑和手机以及其他设备上的日历APP能识别的.ICS格式，以达到能自动化地由日历软件提醒学生上课的时间、地点以及相关内容的项目。  
 
-'Cat' is the preprocessor of the imported Excel file.  
+'Pre' is the preprocessor of the imported Excel file.  
 'Main' is the main program.  
 'conf_classInfo.json' is the export file of the preprocessed file.  
 'conf_classTime.json' is the time of the class schedule.  
 '*.xlsx' is the imported class timetable file.  
 '*.ics' is the exported calendar file.  
 
-#Test version 1.0
-Bug: 
-1. Cannot recognize merged cells. 
-2. Calendar APPs cannot recognize 'remarks about the teacher name'.
+#Version 1.0
+#Just do it. 
