@@ -1,0 +1,60 @@
+{
+	"classroom":[
+			{
+				"group":"Group 1",
+				"grouproom":"X9311"
+			},
+			{
+				"group":"Group 2",
+				"grouproom":"X9312"
+			},
+			{
+				"group":"Group 3",
+				"grouproom":"X9313"
+			},
+			{
+				"group":"Group 4",
+				"grouproom":"X9314"
+			},
+			{
+				"group":"Group 5",
+				"grouproom":"X9315"
+			},
+			{
+				"group":"Group 6",
+				"grouproom":"X9316"
+			},
+			{
+				"group":"Group 7",
+				"grouproom":"X9317"
+			},
+			{
+				"group":"Group 8",
+				"grouproom":"X9311"
+			},
+			{
+				"group":"Group 9",
+				"grouproom":"X9312"
+			},
+			{
+				"group":"Group 10",
+				"grouproom":"X9313"
+			},
+			{
+				"group":"Group 11",
+				"grouproom":"X9314"
+			},
+			{
+				"group":"Group 12",
+				"grouproom":"X9315"
+			},
+			{
+				"group":"Group 13",
+				"grouproom":"X9316"
+			},
+			{
+				"group":"Group 14",
+				"grouproom":"X9317"
+			},
+		]
+}

@@ -1,0 +1,1924 @@
+{
+"classInfo":[
+{
+"className":"XJME2650",
+"week":1,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":2,
+"session":5,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":1,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":2,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":8,
+"mtype":"Lab (Group 1)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":9,
+"mtype":"Lab (Group 1)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":3,
+"session":10,
+"mtype":"Lab (Group 1)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":4,
+"session":3,
+"mtype":"Lab (Group 2)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":4,
+"session":4,
+"mtype":"Lab (Group 2)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":4,
+"session":5,
+"mtype":"Lab (Group 2)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":5,
+"session":3,
+"mtype":"Lab (Group 3)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":5,
+"session":4,
+"mtype":"Lab (Group 3)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":5,
+"session":5,
+"mtype":"Lab (Group 3)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":5,
+"session":8,
+"mtype":"Lab (Group 4)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":5,
+"session":9,
+"mtype":"Lab (Group 4)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2650",
+"week":1,
+"weekday":5,
+"session":10,
+"mtype":"Lab (Group 4)",
+"teacher":"Ali Alazmani Nodeh",
+"venue":"X5117"
+},{
+"className":"XJME2610",
+"week":2,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":2,
+"weekday":1,
+"session":9,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"XJME2610",
+"week":2,
+"weekday":1,
+"session":10,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"XJME2670",
+"week":2,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":2,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":2,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":2,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"Academic activities",
+"week":2,
+"weekday":4,
+"session":5,
+"mtype":"L",
+"teacher":"",
+"venue":"X9306"
+},{
+"className":"形势与政策6",
+"week":2,
+"weekday":4,
+"session":8,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"形势与政策6",
+"week":2,
+"weekday":4,
+"session":9,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"XJME2620",
+"week":2,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":2,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":2,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson  ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson  ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":3,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson  ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":4,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson  ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":5,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson  ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":1,
+"session":10,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":3,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":4,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":5,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":2,
+"session":10,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":3,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":4,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":5,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":3,
+"session":10,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":3,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":4,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":5,
+"mtype":"Lab Group 1",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":4,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":3,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":4,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":5,
+"mtype":"Lab Group 2",
+"teacher":"Andrew Jackson ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":6,
+"mtype":"Lab Group 1+2",
+"teacher":"Andrew Jackson",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":7,
+"mtype":"Lab Group 1+2",
+"teacher":"Andrew Jackson",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":9,
+"mtype":"Lecture",
+"teacher":"Andrew Jackson",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":3,
+"weekday":5,
+"session":10,
+"mtype":"Lecture",
+"teacher":"Andrew Jackson",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":4,
+"weekday":1,
+"session":8,
+"mtype":"Class Test",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":4,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":4,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":4,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":4,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":4,
+"weekday":2,
+"session":5,
+"mtype":"L",
+"teacher":"Christina",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":4,
+"weekday":3,
+"session":1,
+"mtype":"T Group 1",
+"teacher":"LUO Dabing",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":4,
+"weekday":3,
+"session":2,
+"mtype":"T Group 2",
+"teacher":"LUO Dabing",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":4,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":4,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":4,
+"weekday":3,
+"session":5,
+"mtype":"T",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":4,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":4,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":4,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":5,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":5,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":5,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":5,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":5,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":5,
+"weekday":2,
+"session":5,
+"mtype":"T",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":5,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":5,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":5,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":5,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":5,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":5,
+"weekday":5,
+"session":9,
+"mtype":"T",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":6,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":6,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":6,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":6,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":6,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":4,
+"session":6,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":4,
+"session":7,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"形势与政策6",
+"week":6,
+"weekday":4,
+"session":8,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"形势与政策6",
+"week":6,
+"weekday":4,
+"session":9,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"XJME2620",
+"week":6,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":6,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":5,
+"session":9,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":6,
+"weekday":5,
+"session":10,
+"mtype":"L",
+"teacher":"Anindita Chakrabarti",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":7,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":7,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":7,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":7,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":7,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":7,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":7,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":7,
+"weekday":5,
+"session":3,
+"mtype":"Lab",
+"teacher":"LIU Weiqun",
+"venue":"X5117"
+},{
+"className":"XJME2610",
+"week":7,
+"weekday":5,
+"session":4,
+"mtype":"Lab",
+"teacher":"LIU Weiqun",
+"venue":"X5117"
+},{
+"className":"XJME2610",
+"week":7,
+"weekday":5,
+"session":5,
+"mtype":"Lab",
+"teacher":"LIU Weiqun",
+"venue":"X5117"
+},{
+"className":"XJME2620",
+"week":7,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":7,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":7,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":8,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":8,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2610",
+"week":8,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":8,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":8,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":8,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":8,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":8,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"LUO Dabing",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":8,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2620",
+"week":8,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"HUA Chunrong",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":8,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":1,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":1,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":1,
+"session":3,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":1,
+"session":4,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":1,
+"session":6,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":1,
+"session":7,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2670",
+"week":9,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":9,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":2,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":2,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":2,
+"session":8,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":2,
+"session":9,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2650",
+"week":9,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":9,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":9,
+"weekday":3,
+"session":5,
+"mtype":"T",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":3,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":3,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":3,
+"session":8,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":3,
+"session":9,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":4,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":4,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":4,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":4,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":5,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":9,
+"weekday":5,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2640",
+"week":9,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":3,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":4,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":1,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":2,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":2,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YUAN Zhongyuan",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":2,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":2,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":2,
+"session":8,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":2,
+"session":9,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":2,
+"session":10,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":3,
+"session":1,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":3,
+"session":2,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2650",
+"week":10,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2650",
+"week":10,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"WANG Jindong",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":3,
+"session":6,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":3,
+"session":7,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":3,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":3,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":3,
+"session":10,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":4,
+"session":1,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":4,
+"session":2,
+"mtype":"Lab Group 1",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":4,
+"session":3,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":4,
+"session":4,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":10,
+"weekday":4,
+"session":5,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":4,
+"session":6,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":4,
+"session":7,
+"mtype":"Lab Group 2",
+"teacher":"LUO Dabing ",
+"venue":"X5514+X5117"
+},{
+"className":"形势与政策6",
+"week":10,
+"weekday":4,
+"session":8,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"形势与政策6",
+"week":10,
+"weekday":4,
+"session":9,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":5,
+"session":3,
+"mtype":"Lab Group 1+2",
+"teacher":"LUO Dabing",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":5,
+"session":4,
+"mtype":"Lab Group 1+2",
+"teacher":"LUO Dabing",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":5,
+"session":5,
+"mtype":"Lab Group 1+2",
+"teacher":"LUO Dabing",
+"venue":"X5514+X5117"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"LUO Dabing",
+"venue":"X9406"
+},{
+"className":"XJME2636",
+"week":10,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"LUO Dabing",
+"venue":"X9406"
+},{
+"className":"XJME2640",
+"week":10,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"GUO Peng",
+"venue":"X9406"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":2,
+"session":8,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":2,
+"session":9,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":2,
+"session":10,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":3,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":3,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":3,
+"session":10,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":4,
+"session":3,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":4,
+"session":4,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":11,
+"weekday":4,
+"session":5,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":2,
+"session":8,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":2,
+"session":9,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":2,
+"session":10,
+"mtype":"Lab Group 1",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":3,
+"session":8,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":3,
+"session":9,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":3,
+"session":10,
+"mtype":"Lab Group 2",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":4,
+"session":3,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":4,
+"session":4,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"XJME2670",
+"week":12,
+"weekday":4,
+"session":5,
+"mtype":"Lab Group 3",
+"teacher":"YUAN Zhongyuan",
+"venue":"机械馆外实验室"
+},{
+"className":"形势与政策6",
+"week":14,
+"weekday":4,
+"session":8,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+},{
+"className":"形势与政策6",
+"week":14,
+"weekday":4,
+"session":9,
+"mtype":"",
+"teacher":"胡豪",
+"venue":"X1512"
+}]
+}

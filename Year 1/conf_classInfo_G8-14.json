@@ -1,0 +1,1674 @@
+{
+"classInfo":[
+{
+"className":"English G8-14",
+"week":1,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":1,
+"weekday":1,
+"session":8
+},{
+"className":"Maths G8-14 (X4359)",
+"week":1,
+"weekday":1,
+"session":9
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":1,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":1,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":1,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":1,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":1,
+"weekday":2,
+"session":13
+},{
+"className":"Lab(1)8 (X6208)",
+"week":1,
+"weekday":3,
+"session":4
+},{
+"className":"Lab(1)8 (X6208)",
+"week":1,
+"weekday":3,
+"session":5
+},{
+"className":"Lab(1)8 (X6208)",
+"week":1,
+"weekday":3,
+"session":6
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":3,
+"session":13
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":1,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":1,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":1,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":1,
+"weekday":4,
+"session":6
+},{
+"className":"English Lecture 1-7 (X4359)",
+"week":1,
+"weekday":4,
+"session":8
+},{
+"className":"English lecture G8-14 (X4359)",
+"week":1,
+"weekday":4,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":1,
+"weekday":5,
+"session":1
+},{
+"className":"Physics G8-14 (X4359)",
+"week":1,
+"weekday":5,
+"session":2
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":1,
+"session":5
+},{
+"className":"MathsG8-14 (X4359)",
+"week":2,
+"weekday":1,
+"session":8
+},{
+"className":"MathsG8-14 (X4359)",
+"week":2,
+"weekday":1,
+"session":9
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":2,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":2,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":2,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":2,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":2,
+"weekday":2,
+"session":13
+},{
+"className":"Maths G8-14 (X4359)",
+"week":2,
+"weekday":3,
+"session":4
+},{
+"className":"Maths G8-14 (X4359)",
+"week":2,
+"weekday":3,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":2,
+"weekday":3,
+"session":6
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":3,
+"session":13
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":2,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":2,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":2,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":2,
+"weekday":4,
+"session":6
+},{
+"className":"Maths G8-14 (X4359)",
+"week":2,
+"weekday":5,
+"session":11
+},{
+"className":"Maths G8-14 (X4359)",
+"week":2,
+"weekday":5,
+"session":12
+},{
+"className":"Maths G8-14 (X4359)",
+"week":2,
+"weekday":5,
+"session":13
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14(X4359)",
+"week":3,
+"weekday":1,
+"session":8
+},{
+"className":"Maths G8-14(X4359)",
+"week":3,
+"weekday":1,
+"session":9
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":3,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":3,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":2,
+"session":9
+},{
+"className":"Maths G8-14 (X4359)",
+"week":3,
+"weekday":3,
+"session":4
+},{
+"className":"Maths G8-14 (X4359)",
+"week":3,
+"weekday":3,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":3,
+"weekday":3,
+"session":6
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":3,
+"session":13
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":3,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":3,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":3,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":3,
+"weekday":4,
+"session":6
+},{
+"className":"Physics G8-14 (X4359)",
+"week":3,
+"weekday":5,
+"session":1
+},{
+"className":"Physics G8-14 (X4359)",
+"week":3,
+"weekday":5,
+"session":2
+},{
+"className":"Maths G8-14 (X4359)",
+"week":3,
+"weekday":5,
+"session":11
+},{
+"className":"Maths G8-14 (X4359)",
+"week":3,
+"weekday":5,
+"session":12
+},{
+"className":"Maths G8-14 (X4359)",
+"week":3,
+"weekday":5,
+"session":13
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":1,
+"session":5
+},{
+"className":"English LectureG8-14 (X4359)",
+"week":4,
+"weekday":1,
+"session":8
+},{
+"className":"English LectureG8-14 (X4359)",
+"week":4,
+"weekday":1,
+"session":9
+},{
+"className":"MathsG8-14 (X4359)",
+"week":4,
+"weekday":1,
+"session":11
+},{
+"className":"MathsG8-14 (X4359)",
+"week":4,
+"weekday":1,
+"session":12
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":4,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":4,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":2,
+"session":9
+},{
+"className":"Maths G8-14 (X4359)",
+"week":4,
+"weekday":3,
+"session":4
+},{
+"className":"Maths G8-14 (X4359)",
+"week":4,
+"weekday":3,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":4,
+"weekday":3,
+"session":6
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":3,
+"session":13
+},{
+"className":"Lab(1)9 (X6208)",
+"week":4,
+"weekday":3,
+"session":15
+},{
+"className":"Lab(1)9 (X6208)",
+"week":4,
+"weekday":3,
+"session":16
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":4,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":4,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":4,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":4,
+"weekday":4,
+"session":6
+},{
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515, X1514)",
+"week":4,
+"weekday":4,
+"session":8
+},{
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515, X1514)",
+"week":4,
+"weekday":4,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":4,
+"weekday":5,
+"session":1
+},{
+"className":"Physics G8-14 (X4359)",
+"week":4,
+"weekday":5,
+"session":2
+},{
+"className":"Maths G8-14 (X4359)",
+"week":4,
+"weekday":5,
+"session":11
+},{
+"className":"Maths G8-14 (X4359)",
+"week":4,
+"weekday":5,
+"session":12
+},{
+"className":"Maths G8-14 (X4359)",
+"week":4,
+"weekday":5,
+"session":13
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":1,
+"session":5
+},{
+"className":"English Lecture G8-14(X4359)",
+"week":5,
+"weekday":1,
+"session":8
+},{
+"className":"English Lecture G8-14(X4359)",
+"week":5,
+"weekday":1,
+"session":9
+},{
+"className":"Maths G8-14 (X4359)",
+"week":5,
+"weekday":1,
+"session":11
+},{
+"className":"Maths G8-14 (X4359)",
+"week":5,
+"weekday":1,
+"session":12
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":5,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":5,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":5,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":5,
+"weekday":2,
+"session":12
+},{
+"className":"Maths G8-14 (X4359)",
+"week":5,
+"weekday":3,
+"session":4
+},{
+"className":"Maths G8-14 (X4359)",
+"week":5,
+"weekday":3,
+"session":5
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":3,
+"session":13
+},{
+"className":"Lab(1)11 (X6208)",
+"week":5,
+"weekday":3,
+"session":15
+},{
+"className":"Lab(1)11 (X6208)",
+"week":5,
+"weekday":3,
+"session":16
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":5,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":5,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":5,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":5,
+"weekday":4,
+"session":6
+},{
+"className":"Physics G8-14 (X4359)",
+"week":5,
+"weekday":5,
+"session":1
+},{
+"className":"Physics G8-14 (X4359)",
+"week":5,
+"weekday":5,
+"session":2
+},{
+"className":"Maths G8-14 (X4359)",
+"week":5,
+"weekday":5,
+"session":8
+},{
+"className":"Maths G8-14 (X4359)",
+"week":5,
+"weekday":5,
+"session":9
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":6,
+"weekday":1,
+"session":11
+},{
+"className":"Maths G8-14 (X4359)",
+"week":6,
+"weekday":1,
+"session":12
+},{
+"className":"Maths G8-14 (X4359)",
+"week":6,
+"weekday":1,
+"session":13
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":6,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":6,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":2,
+"session":9
+},{
+"className":"Maths G8-14(X4359)",
+"week":6,
+"weekday":2,
+"session":11
+},{
+"className":"Maths G8-14(X4359)",
+"week":6,
+"weekday":2,
+"session":12
+},{
+"className":"Maths G8-14(X4359)",
+"week":6,
+"weekday":2,
+"session":13
+},{
+"className":"Physics G8-14 (X4359)",
+"week":6,
+"weekday":3,
+"session":4
+},{
+"className":"Physics G8-14 (X4359)",
+"week":6,
+"weekday":3,
+"session":5
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":3,
+"session":13
+},{
+"className":"Lab(1)13 (X6208)",
+"week":6,
+"weekday":3,
+"session":15
+},{
+"className":"Lab(1)13 (X6208)",
+"week":6,
+"weekday":3,
+"session":16
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":6,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":6,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":6,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":6,
+"weekday":4,
+"session":6
+},{
+"className":"PhysicsG8-14 (X4359)",
+"week":6,
+"weekday":4,
+"session":8
+},{
+"className":"PhysicsG8-14 (X4359)",
+"week":6,
+"weekday":4,
+"session":9
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":1,
+"session":5
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":1,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":1,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":1,
+"session":13
+},{
+"className":"English 1-7",
+"week":7,
+"weekday":2,
+"session":1
+},{
+"className":"English 1-7",
+"week":7,
+"weekday":2,
+"session":2
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":7,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":7,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":2,
+"session":13
+},{
+"className":"Maths G8-14(X4359)",
+"week":7,
+"weekday":3,
+"session":1
+},{
+"className":"Maths G8-14(X4359)",
+"week":7,
+"weekday":3,
+"session":2
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":3,
+"session":4
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":3,
+"session":5
+},{
+"className":"Physics G8-14 (X4359)",
+"week":7,
+"weekday":3,
+"session":6
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":3,
+"session":13
+},{
+"className":"English lecture 8-11 (X4359)",
+"week":7,
+"weekday":3,
+"session":15
+},{
+"className":"English lecture 8-11 (X4359)",
+"week":7,
+"weekday":3,
+"session":16
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":7,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":7,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":7,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":7,
+"weekday":4,
+"session":6
+},{
+"className":"Physics lecture1-7 (X4359)",
+"week":7,
+"weekday":4,
+"session":11
+},{
+"className":"Physics lecture G8-14 (X4359)",
+"week":7,
+"weekday":4,
+"session":12
+},{
+"className":"Lab(2)8 (X6208)",
+"week":7,
+"weekday":5,
+"session":4
+},{
+"className":"Lab(2)8 (X6208)",
+"week":7,
+"weekday":5,
+"session":5
+},{
+"className":"Lab(2)8 (X6208)",
+"week":7,
+"weekday":5,
+"session":6
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":8,
+"weekday":1,
+"session":8
+},{
+"className":"Maths G8-14 (X4359)",
+"week":8,
+"weekday":1,
+"session":9
+},{
+"className":"English Lecture 1-7 (X4359)",
+"week":8,
+"weekday":1,
+"session":11
+},{
+"className":"English lecture G8-14 (X4359)",
+"week":8,
+"weekday":1,
+"session":12
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":8,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":8,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":8,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":8,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":8,
+"weekday":2,
+"session":13
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":3,
+"session":13
+},{
+"className":"English lecture 12-14(X4359)",
+"week":8,
+"weekday":3,
+"session":15
+},{
+"className":"English lecture 12-14(X4359)",
+"week":8,
+"weekday":3,
+"session":16
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":8,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":8,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":8,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":8,
+"weekday":4,
+"session":6
+},{
+"className":"Current Affairs 21-14(刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"week":8,
+"weekday":4,
+"session":8
+},{
+"className":"Current Affairs 21-14(刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"week":8,
+"weekday":4,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":8,
+"weekday":5,
+"session":1
+},{
+"className":"Physics G8-14 (X4359)",
+"week":8,
+"weekday":5,
+"session":2
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":9,
+"weekday":1,
+"session":8
+},{
+"className":"Maths G8-14 (X4359)",
+"week":9,
+"weekday":1,
+"session":9
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":9,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":9,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":9,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":9,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":9,
+"weekday":2,
+"session":13
+},{
+"className":"Maths G8-14 (X4359)",
+"week":9,
+"weekday":3,
+"session":1
+},{
+"className":"Maths G8-14 (X4359)",
+"week":9,
+"weekday":3,
+"session":2
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":3,
+"session":12
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":3,
+"session":13
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":9,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":9,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":9,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":9,
+"weekday":4,
+"session":6
+},{
+"className":"Physics G8-14 (X4359)",
+"week":9,
+"weekday":5,
+"session":1
+},{
+"className":"Physics G8-14 (X4359)",
+"week":9,
+"weekday":5,
+"session":2
+},{
+"className":"English G8-14",
+"week":10,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":10,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14(X4359)",
+"week":10,
+"weekday":1,
+"session":8
+},{
+"className":"Maths G8-14(X4359)",
+"week":10,
+"weekday":1,
+"session":9
+},{
+"className":"Lab(2)9 (X6208)",
+"week":10,
+"weekday":1,
+"session":11
+},{
+"className":"Lab(2)9 (X6208)",
+"week":10,
+"weekday":1,
+"session":12
+},{
+"className":"Lab(2)9 (X6208)",
+"week":10,
+"weekday":1,
+"session":13
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":10,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":10,
+"weekday":2,
+"session":5
+},{
+"className":"English G8-14",
+"week":10,
+"weekday":2,
+"session":8
+},{
+"className":"English G8-14",
+"week":10,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":10,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":10,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":10,
+"weekday":2,
+"session":13
+},{
+"className":"English G8-14",
+"week":10,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":10,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":10,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":10,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":10,
+"weekday":4,
+"session":6
+},{
+"className":"Lab(2)10 (X6208)",
+"week":10,
+"weekday":4,
+"session":11
+},{
+"className":"Lab(2)10 (X6208)",
+"week":10,
+"weekday":4,
+"session":12
+},{
+"className":"Lab(2)10 (X6208)",
+"week":10,
+"weekday":4,
+"session":13
+},{
+"className":"Lab(2)11 (X6208)",
+"week":10,
+"weekday":4,
+"session":15
+},{
+"className":"Lab(2)11 (X6208)",
+"week":10,
+"weekday":4,
+"session":16
+},{
+"className":"PhysicsG8-14(X4359)",
+"week":10,
+"weekday":5,
+"session":1
+},{
+"className":"PhysicsG8-14(X4359)",
+"week":10,
+"weekday":5,
+"session":2
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":1,
+"session":4
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":1,
+"session":5
+},{
+"className":"Maths G8-14 (X4359)",
+"week":11,
+"weekday":1,
+"session":8
+},{
+"className":"Maths G8-14 (X4359)",
+"week":11,
+"weekday":1,
+"session":9
+},{
+"className":"Lab(2)12 (X6208)",
+"week":11,
+"weekday":1,
+"session":11
+},{
+"className":"Lab(2)12 (X6208)",
+"week":11,
+"weekday":1,
+"session":12
+},{
+"className":"Lab(2)12 (X6208)",
+"week":11,
+"weekday":1,
+"session":13
+},{
+"className":"Lab(2)13 (X6208)",
+"week":11,
+"weekday":1,
+"session":15
+},{
+"className":"Lab(2)13 (X6208)",
+"week":11,
+"weekday":1,
+"session":16
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":11,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":11,
+"weekday":2,
+"session":5
+},{
+"className":"English LectureG8-14 (X4359)",
+"week":11,
+"weekday":2,
+"session":8
+},{
+"className":"English LectureG8-14 (X4359)",
+"week":11,
+"weekday":2,
+"session":9
+},{
+"className":"Physics G8-14 (X4359)",
+"week":11,
+"weekday":2,
+"session":11
+},{
+"className":"Physics G8-14 (X4359)",
+"week":11,
+"weekday":2,
+"session":12
+},{
+"className":"Physics G8-14 (X4359)",
+"week":11,
+"weekday":2,
+"session":13
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":3,
+"session":11
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":3,
+"session":12
+},{
+"className":"Lab(2)14 (X6208)",
+"week":11,
+"weekday":3,
+"session":15
+},{
+"className":"Lab(2)14 (X6208)",
+"week":11,
+"weekday":3,
+"session":16
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":4,
+"session":1
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":11,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":11,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":11,
+"weekday":4,
+"session":6
+},{
+"className":"Physics G8-14 (X4359)",
+"week":11,
+"weekday":4,
+"session":8
+},{
+"className":"Physics G8-14 (X4359)",
+"week":11,
+"weekday":4,
+"session":9
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":5,
+"session":4
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":5,
+"session":5
+},{
+"className":"English G8-14",
+"week":11,
+"weekday":5,
+"session":6
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":12,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":12,
+"weekday":2,
+"session":5
+},{
+"className":"English Revision lecture G8-14(X4359)",
+"week":12,
+"weekday":2,
+"session":11
+},{
+"className":"English Revision lecture G8-14(X4359)",
+"week":12,
+"weekday":2,
+"session":12
+},{
+"className":"English Revision lecture G8-14(X4359)",
+"week":12,
+"weekday":2,
+"session":13
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":12,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":12,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":12,
+"weekday":4,
+"session":6
+},{
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"week":12,
+"weekday":4,
+"session":8
+},{
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"week":12,
+"weekday":4,
+"session":9
+},{
+"className":"English Revision lecture G8-14(X4359)",
+"week":12,
+"weekday":5,
+"session":4
+},{
+"className":"English Revision lecture G8-14(X4359)",
+"week":12,
+"weekday":5,
+"session":5
+},{
+"className":"English Revision lecture G8-14(X4359)",
+"week":12,
+"weekday":5,
+"session":6
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":13,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":13,
+"weekday":2,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":13,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":13,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":13,
+"weekday":4,
+"session":6
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":14,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":14,
+"weekday":2,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":14,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":14,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":14,
+"weekday":4,
+"session":6
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":15,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":15,
+"weekday":2,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":15,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":15,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":15,
+"weekday":4,
+"session":6
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":16,
+"weekday":2,
+"session":4
+},{
+"className":"PE G8-14（北区田径场,犀浦)",
+"week":16,
+"weekday":2,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":16,
+"weekday":4,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":16,
+"weekday":4,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 （陈洁、王立华, X4358,X4359)",
+"week":16,
+"weekday":4,
+"session":6
+},{
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"week":16,
+"weekday":4,
+"session":8
+},{
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"week":16,
+"weekday":4,
+"session":9
+}]
+}
