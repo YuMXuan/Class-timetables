@@ -28,7 +28,7 @@ def main():
         numOfRow = sheet.nrows
         numOfCol = sheet.ncols
         weekday = 0
-        for ci in range(3,13,2):
+        for ci in range(3,16,2):
             weekday = weekday+1
             sessionlist1 = []
             sessionlist2 = []

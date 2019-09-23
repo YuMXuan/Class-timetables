@@ -139,7 +139,7 @@ def setClassTime():
 	
 def setClassInfo():
 	data = []
-	with open('conf_classInfo_G8-14.json', 'r') as f:
+	with open('conf_classInfo_G1-7.json', 'r') as f:
 		data = json.load(f)
 	global classInfoList
 	classInfoList = data["classInfo"]

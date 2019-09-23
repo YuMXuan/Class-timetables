@@ -1,1924 +1,1812 @@
 {
 "classInfo":[
 {
-"className":"XJME2650",
+"className":"Individual Engineering Project",
 "week":1,
 "weekday":1,
-"session":6,
+"session":1,
 "mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
+"teacher":"TIAN Huaiwen",
+"venue":"X2211"
 },{
-"className":"XJME2650",
+"className":"Individual Engineering Project",
 "week":1,
 "weekday":1,
-"session":7,
+"session":2,
 "mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
+"teacher":"TIAN Huaiwen",
+"venue":"X2211"
 },{
-"className":"XJME2650",
+"className":"Additive Manufacturing",
 "week":1,
 "weekday":1,
-"session":8,
+"session":3,
 "mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
+"teacher":"ZHANG Min",
+"venue":"X4359"
 },{
-"className":"XJME2650",
+"className":"Additive Manufacturing",
 "week":1,
 "weekday":1,
-"session":9,
+"session":4,
 "mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
+"teacher":"ZHANG Min",
+"venue":"X4359"
 },{
-"className":"XJME2650",
+"className":"Additive Manufacturing",
 "week":1,
 "weekday":1,
-"session":10,
+"session":5,
 "mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
+"teacher":"ZHANG Min",
+"venue":"X4359"
 },{
-"className":"XJME2650",
+"className":"Vehicle Design and Analysis",
 "week":1,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":2,
-"session":5,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":1,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":2,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":5,
-"mtype":"L",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":8,
-"mtype":"Lab (Group 1)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":9,
-"mtype":"Lab (Group 1)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":3,
-"session":10,
-"mtype":"Lab (Group 1)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":4,
-"session":3,
-"mtype":"Lab (Group 2)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":4,
-"session":4,
-"mtype":"Lab (Group 2)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":4,
-"session":5,
-"mtype":"Lab (Group 2)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":5,
-"session":3,
-"mtype":"Lab (Group 3)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":5,
-"session":4,
-"mtype":"Lab (Group 3)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":5,
-"session":5,
-"mtype":"Lab (Group 3)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":5,
-"session":8,
-"mtype":"Lab (Group 4)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":5,
-"session":9,
-"mtype":"Lab (Group 4)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2650",
-"week":1,
-"weekday":5,
-"session":10,
-"mtype":"Lab (Group 4)",
-"teacher":"Ali Alazmani Nodeh",
-"venue":"X5117"
-},{
-"className":"XJME2610",
-"week":2,
-"weekday":1,
-"session":8,
 "mtype":"L",
 "teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":2,
-"weekday":1,
-"session":9,
-"mtype":"",
-"teacher":"",
-"venue":""
-},{
-"className":"XJME2610",
-"week":2,
-"weekday":1,
-"session":10,
-"mtype":"",
-"teacher":"",
-"venue":""
-},{
-"className":"XJME2670",
-"week":2,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":2,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":2,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":2,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"Academic activities",
-"week":2,
-"weekday":4,
-"session":5,
-"mtype":"L",
-"teacher":"",
 "venue":"X9306"
 },{
-"className":"形势与政策6",
-"week":2,
+"className":"Vehicle Design and Analysis",
+"week":1,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":1,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"形势与政策7",
+"week":1,
 "weekday":4,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":""
+},{
+"className":"形势与政策7",
+"week":1,
+"weekday":4,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"None"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":1,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X4359"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":1,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X4359"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":1,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":2,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":2,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":2,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":2,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":2,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X4359"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":2,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X4359"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":2,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":3,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":4,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":5,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":8,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":9,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":3,
+"weekday":1,
+"session":10,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Vehicle Design and Analysis",
+"week":3,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":3,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":3,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Additive Manufacturing",
+"week":4,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":4,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":4,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":4,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":4,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":4,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":4,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":3,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":4,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":5,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":8,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":9,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":5,
+"weekday":1,
+"session":10,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Vehicle Design and Analysis",
+"week":5,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":5,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":2,
+"session":5,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":5,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":2,
+"session":8,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":2,
+"session":9,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":2,
+"session":10,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":3,
+"session":6,
+"mtype":"Lab",
+"teacher":"TBD",
+"venue":"X7304"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":3,
+"session":7,
+"mtype":"Lab",
+"teacher":"TBD",
+"venue":"X7304"
+},{
+"className":"Individual Engineering Project",
+"week":5,
+"weekday":3,
 "session":8,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"Tanya Wallis",
+"venue":"X1121"
 },{
-"className":"形势与政策6",
-"week":2,
+"className":"形势与政策7",
+"week":5,
 "weekday":4,
-"session":9,
+"session":6,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"TBD",
+"venue":""
 },{
-"className":"XJME2620",
-"week":2,
+"className":"形势与政策7",
+"week":5,
+"weekday":4,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"None"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":5,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":5,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":5,
 "weekday":5,
 "session":6,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
 },{
-"className":"XJME2620",
-"week":2,
-"weekday":5,
-"session":7,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":2,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson  ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
+"className":"Additive Manufacturing",
+"week":7,
 "weekday":1,
 "session":2,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson  ",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":3,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson  ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":4,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson  ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":5,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson  ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":8,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":9,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":1,
-"session":10,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
+"className":"Vehicle Design and Analysis",
+"week":7,
 "weekday":2,
 "session":1,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
 },{
-"className":"XJME2636",
-"week":3,
+"className":"Vehicle Design and Analysis",
+"week":7,
 "weekday":2,
 "session":2,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
-"session":3,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
-"session":4,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
-"session":5,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
+"className":"Thermofluids 3",
+"week":7,
 "weekday":2,
 "session":6,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"className":"Finite Element Methods of Analysis",
+"week":7,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
+"className":"Finite Element Methods of Analysis",
+"week":7,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":7,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
+"session":3,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
+"session":4,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
+"session":5,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
 "session":8,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
 "session":9,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":2,
+"className":"Additive Manufacturing",
+"week":8,
+"weekday":1,
 "session":10,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
+"className":"Vehicle Design and Analysis",
+"week":8,
+"weekday":2,
 "session":1,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
 },{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
+"className":"Vehicle Design and Analysis",
+"week":8,
+"weekday":2,
 "session":2,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":3,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":4,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":5,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":8,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":9,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":3,
-"session":10,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":2,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":3,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":4,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":5,
-"mtype":"Lab Group 1",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":4,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":3,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":4,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":5,
-"mtype":"Lab Group 2",
-"teacher":"Andrew Jackson ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":6,
-"mtype":"Lab Group 1+2",
-"teacher":"Andrew Jackson",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":7,
-"mtype":"Lab Group 1+2",
-"teacher":"Andrew Jackson",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":9,
-"mtype":"Lecture",
-"teacher":"Andrew Jackson",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":3,
-"weekday":5,
-"session":10,
-"mtype":"Lecture",
-"teacher":"Andrew Jackson",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":4,
-"weekday":1,
-"session":8,
-"mtype":"Class Test",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":4,
-"weekday":1,
-"session":9,
 "mtype":"L",
 "teacher":"LIU Weiqun",
-"venue":"X9406"
+"venue":"X9306"
 },{
-"className":"XJME2610",
-"week":4,
-"weekday":1,
-"session":10,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":4,
+"className":"Thermofluids 3",
+"week":8,
 "weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":4,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":4,
-"weekday":2,
-"session":5,
-"mtype":"L",
-"teacher":"Christina",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":4,
-"weekday":3,
-"session":1,
-"mtype":"T Group 1",
-"teacher":"LUO Dabing",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":4,
-"weekday":3,
-"session":2,
-"mtype":"T Group 2",
-"teacher":"LUO Dabing",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":4,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":4,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":4,
-"weekday":3,
-"session":5,
-"mtype":"T",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2620",
-"week":4,
-"weekday":5,
 "session":6,
 "mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
+"teacher":"ZENG Yikai",
+"venue":"X1121"
 },{
-"className":"XJME2620",
-"week":4,
-"weekday":5,
-"session":7,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":4,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":5,
-"weekday":1,
-"session":8,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":5,
-"weekday":1,
-"session":9,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":5,
-"weekday":1,
-"session":10,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":5,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":5,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":5,
-"weekday":2,
-"session":5,
-"mtype":"T",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":5,
+"className":"Individual Engineering Project",
+"week":8,
 "weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":5,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2620",
-"week":5,
-"weekday":5,
-"session":6,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
-},{
-"className":"XJME2620",
-"week":5,
-"weekday":5,
-"session":7,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":5,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":5,
-"weekday":5,
-"session":9,
-"mtype":"T",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":1,
-"session":6,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":1,
-"session":7,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":6,
-"weekday":1,
-"session":8,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":6,
-"weekday":1,
-"session":9,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":6,
-"weekday":1,
-"session":10,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":6,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":6,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":3,
-"session":5,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":4,
-"session":6,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":6,
-"weekday":4,
-"session":7,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"形势与政策6",
-"week":6,
-"weekday":4,
 "session":8,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"Tanya Wallis",
+"venue":"X2211"
 },{
-"className":"形势与政策6",
-"week":6,
-"weekday":4,
-"session":9,
-"mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"className":"Finite Element Methods of Analysis",
+"week":8,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
 },{
-"className":"XJME2620",
-"week":6,
+"className":"Finite Element Methods of Analysis",
+"week":8,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":8,
 "weekday":5,
 "session":6,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
 },{
-"className":"XJME2620",
-"week":6,
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":3,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":4,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":5,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":8,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":9,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":9,
+"weekday":1,
+"session":10,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Vehicle Design and Analysis",
+"week":9,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":9,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":9,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"形势与政策7",
+"week":9,
+"weekday":4,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":""
+},{
+"className":"形势与政策7",
+"week":9,
+"weekday":4,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"None"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":9,
 "weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":9,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":9,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":10,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":10,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":10,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":10,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":10,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":10,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":10,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":11,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":11,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":11,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":11,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Individual Engineering Project",
+"week":11,
+"weekday":3,
+"session":8,
+"mtype":"",
+"teacher":"Tanya Wallis",
+"venue":"X2211"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":11,
+"weekday":4,
+"session":3,
+"mtype":"L",
+"teacher":"Alison C. Jones",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":11,
+"weekday":4,
+"session":4,
+"mtype":"L",
+"teacher":"Alison C. Jones",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":11,
+"weekday":4,
+"session":5,
+"mtype":"L",
+"teacher":"Alison C. Jones",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":11,
+"weekday":4,
+"session":6,
+"mtype":"L",
+"teacher":"Alison C. Jones",
+"venue":"X4359"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":11,
+"weekday":4,
 "session":7,
 "mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
+"teacher":"Alison C. Jones",
+"venue":"X4359"
 },{
-"className":"XJME2640",
-"week":6,
+"className":"Finite Element Methods of Analysis",
+"week":11,
 "weekday":5,
-"session":8,
+"session":1,
 "mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
+"teacher":"Alison C. Jones",
+"venue":"X4359"
 },{
-"className":"XJME2640",
-"week":6,
+"className":"Finite Element Methods of Analysis",
+"week":11,
 "weekday":5,
-"session":9,
+"session":2,
 "mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
+"teacher":"Alison C. Jones",
+"venue":"X4359"
 },{
-"className":"XJME2640",
-"week":6,
-"weekday":5,
-"session":10,
-"mtype":"L",
-"teacher":"Anindita Chakrabarti",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":7,
-"weekday":1,
-"session":8,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":7,
-"weekday":1,
-"session":9,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":7,
-"weekday":1,
-"session":10,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":7,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":7,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":7,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":7,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2610",
-"week":7,
+"className":"Finite Element Methods of Analysis",
+"week":11,
 "weekday":5,
 "session":3,
 "mtype":"Lab",
-"teacher":"LIU Weiqun",
-"venue":"X5117"
+"teacher":"Alison C. Jones",
+"venue":"X7304"
 },{
-"className":"XJME2610",
-"week":7,
+"className":"Finite Element Methods of Analysis",
+"week":11,
 "weekday":5,
 "session":4,
 "mtype":"Lab",
-"teacher":"LIU Weiqun",
-"venue":"X5117"
+"teacher":"Alison C. Jones",
+"venue":"X7304"
 },{
-"className":"XJME2610",
-"week":7,
+"className":"Finite Element Methods of Analysis",
+"week":11,
 "weekday":5,
 "session":5,
 "mtype":"Lab",
-"teacher":"LIU Weiqun",
-"venue":"X5117"
+"teacher":"Alison C. Jones",
+"venue":"X7304"
 },{
-"className":"XJME2620",
-"week":7,
-"weekday":5,
-"session":6,
+"className":"Additive Manufacturing",
+"week":12,
+"weekday":1,
+"session":2,
 "mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
+"teacher":"ZHANG Min",
+"venue":"X1121"
 },{
-"className":"XJME2620",
-"week":7,
-"weekday":5,
-"session":7,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
+"className":"Additive Manufacturing",
+"week":12,
+"weekday":1,
+"session":3,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2640",
-"week":7,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
+"className":"Additive Manufacturing",
+"week":12,
+"weekday":1,
+"session":4,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2610",
-"week":8,
+"className":"Additive Manufacturing",
+"week":12,
+"weekday":1,
+"session":5,
+"mtype":"Lab（Group1）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Additive Manufacturing",
+"week":12,
 "weekday":1,
 "session":8,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2610",
-"week":8,
+"className":"Additive Manufacturing",
+"week":12,
 "weekday":1,
 "session":9,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9406"
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
 },{
-"className":"XJME2610",
-"week":8,
+"className":"Additive Manufacturing",
+"week":12,
 "weekday":1,
 "session":10,
+"mtype":"Lab（Group2）",
+"teacher":"ZHANG Min",
+"venue":"工程训练中心（A318）"
+},{
+"className":"Vehicle Design and Analysis",
+"week":12,
+"weekday":2,
+"session":1,
 "mtype":"L",
 "teacher":"LIU Weiqun",
-"venue":"X9406"
+"venue":"X1121"
 },{
-"className":"XJME2670",
-"week":8,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":8,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":8,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":8,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":8,
-"weekday":3,
-"session":5,
-"mtype":"L",
-"teacher":"LUO Dabing",
-"venue":"X9406"
-},{
-"className":"XJME2620",
-"week":8,
-"weekday":5,
-"session":6,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
-},{
-"className":"XJME2620",
-"week":8,
-"weekday":5,
-"session":7,
-"mtype":"L",
-"teacher":"HUA Chunrong",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":8,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":1,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":1,
-"session":2,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":1,
-"session":3,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":1,
-"session":4,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":1,
-"session":6,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":1,
-"session":7,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2670",
-"week":9,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":9,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":2,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":2,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":2,
-"session":8,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":2,
-"session":9,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2650",
-"week":9,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":9,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2650",
-"week":9,
-"weekday":3,
-"session":5,
-"mtype":"T",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":3,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":3,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":3,
-"session":8,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":3,
-"session":9,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":4,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":4,
-"session":2,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":4,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":4,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":5,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":9,
-"weekday":5,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2640",
-"week":9,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":2,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":3,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":4,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":8,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":1,
-"session":9,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":2,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
+"className":"Vehicle Design and Analysis",
+"week":12,
 "weekday":2,
 "session":2,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2670",
-"week":10,
-"weekday":2,
-"session":3,
 "mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
+"teacher":"LIU Weiqun",
+"venue":"X1121"
 },{
-"className":"XJME2670",
-"week":10,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"YUAN Zhongyuan",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":10,
+"className":"Thermofluids 3",
+"week":12,
 "weekday":2,
 "session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":2,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2670",
-"week":10,
-"weekday":2,
-"session":8,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":10,
-"weekday":2,
-"session":9,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":10,
-"weekday":2,
-"session":10,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":3,
-"session":1,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":3,
-"session":2,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2650",
-"week":10,
-"weekday":3,
-"session":3,
 "mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
+"teacher":"ZENG Yikai",
+"venue":"X1121"
 },{
-"className":"XJME2650",
-"week":10,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"WANG Jindong",
-"venue":"X9406"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":3,
-"session":6,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":3,
-"session":7,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2670",
-"week":10,
+"className":"Individual Engineering Project",
+"week":12,
 "weekday":3,
 "session":8,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
+"mtype":"Ethics",
+"teacher":"New staff",
+"venue":"X2211"
 },{
-"className":"XJME2670",
-"week":10,
+"className":"Individual Engineering Project",
+"week":12,
 "weekday":3,
 "session":9,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
+"mtype":"Ethics",
+"teacher":"New staff",
+"venue":"X2211"
 },{
-"className":"XJME2670",
-"week":10,
+"className":"Individual Engineering Project",
+"week":12,
 "weekday":3,
 "session":10,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
+"mtype":"Ethics",
+"teacher":"New staff",
+"venue":"X2211"
 },{
-"className":"XJME2636",
-"week":10,
-"weekday":4,
-"session":1,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":4,
-"session":2,
-"mtype":"Lab Group 1",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2670",
-"week":10,
-"weekday":4,
+"className":"Finite Element Methods of Analysis",
+"week":12,
+"weekday":5,
 "session":3,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
 },{
-"className":"XJME2670",
-"week":10,
-"weekday":4,
+"className":"Finite Element Methods of Analysis",
+"week":12,
+"weekday":5,
 "session":4,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
 },{
-"className":"XJME2670",
-"week":10,
-"weekday":4,
-"session":5,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2636",
-"week":10,
-"weekday":4,
+"className":"Finite Element Methods of Analysis",
+"week":12,
+"weekday":5,
 "session":6,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
 },{
-"className":"XJME2636",
-"week":10,
-"weekday":4,
-"session":7,
-"mtype":"Lab Group 2",
-"teacher":"LUO Dabing ",
-"venue":"X5514+X5117"
+"className":"Additive Manufacturing",
+"week":13,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
 },{
-"className":"形势与政策6",
-"week":10,
-"weekday":4,
+"className":"Vehicle Design and Analysis",
+"week":13,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":13,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X1121"
+},{
+"className":"Thermofluids 3",
+"week":13,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Individual Engineering Project",
+"week":13,
+"weekday":3,
 "session":8,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"Tanya Wallis",
+"venue":"X1121"
 },{
-"className":"形势与政策6",
-"week":10,
+"className":"形势与政策7",
+"week":13,
 "weekday":4,
-"session":9,
+"session":6,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"TBD",
+"venue":""
 },{
-"className":"XJME2636",
-"week":10,
+"className":"形势与政策7",
+"week":13,
+"weekday":4,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"None"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":13,
 "weekday":5,
 "session":3,
-"mtype":"Lab Group 1+2",
-"teacher":"LUO Dabing",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
 },{
-"className":"XJME2636",
-"week":10,
+"className":"Finite Element Methods of Analysis",
+"week":13,
 "weekday":5,
 "session":4,
-"mtype":"Lab Group 1+2",
-"teacher":"LUO Dabing",
-"venue":"X5514+X5117"
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
 },{
-"className":"XJME2636",
-"week":10,
-"weekday":5,
-"session":5,
-"mtype":"Lab Group 1+2",
-"teacher":"LUO Dabing",
-"venue":"X5514+X5117"
-},{
-"className":"XJME2636",
-"week":10,
+"className":"Finite Element Methods of Analysis",
+"week":13,
 "weekday":5,
 "session":6,
-"mtype":"L",
-"teacher":"LUO Dabing",
-"venue":"X9406"
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
 },{
-"className":"XJME2636",
-"week":10,
-"weekday":5,
-"session":7,
-"mtype":"L",
-"teacher":"LUO Dabing",
-"venue":"X9406"
-},{
-"className":"XJME2640",
-"week":10,
-"weekday":5,
-"session":8,
-"mtype":"L",
-"teacher":"GUO Peng",
-"venue":"X9406"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":2,
-"session":8,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":2,
-"session":9,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":2,
-"session":10,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":3,
-"session":8,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":3,
-"session":9,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":3,
-"session":10,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":4,
-"session":3,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":4,
-"session":4,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":11,
-"weekday":4,
-"session":5,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":2,
-"session":8,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":2,
-"session":9,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":2,
-"session":10,
-"mtype":"Lab Group 1",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":3,
-"session":8,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":3,
-"session":9,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":3,
-"session":10,
-"mtype":"Lab Group 2",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":4,
-"session":3,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":4,
-"session":4,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"XJME2670",
-"week":12,
-"weekday":4,
-"session":5,
-"mtype":"Lab Group 3",
-"teacher":"YUAN Zhongyuan",
-"venue":"机械馆外实验室"
-},{
-"className":"形势与政策6",
+"className":"Individual Engineering Project",
 "week":14,
-"weekday":4,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"X2211"
+},{
+"className":"Additive Manufacturing",
+"week":14,
+"weekday":1,
+"session":3,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"TBD"
+},{
+"className":"Additive Manufacturing",
+"week":14,
+"weekday":1,
+"session":4,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"TBD"
+},{
+"className":"Additive Manufacturing",
+"week":14,
+"weekday":1,
+"session":5,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"TBD"
+},{
+"className":"Vehicle Design and Analysis",
+"week":14,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":14,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X1121"
+},{
+"className":"Thermofluids 3",
+"week":14,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Individual Engineering Project",
+"week":14,
+"weekday":3,
 "session":8,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"Tanya Wallis",
+"venue":"X1121"
 },{
-"className":"形势与政策6",
+"className":"Finite Element Methods of Analysis",
 "week":14,
-"weekday":4,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":14,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":14,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":15,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Vehicle Design and Analysis",
+"week":15,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X4359"
+},{
+"className":"Vehicle Design and Analysis",
+"week":15,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X4359"
+},{
+"className":"Thermofluids 3",
+"week":15,
+"weekday":2,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":15,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":15,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":15,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Additive Manufacturing",
+"week":16,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Min",
+"venue":"X1121"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"ZENG Yikai",
+"venue":"X1121"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":1,
+"session":8,
+"mtype":"Lab（Group1）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":1,
 "session":9,
+"mtype":"Lab（Group1）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":1,
+"session":10,
+"mtype":"Lab（Group1）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Vehicle Design and Analysis",
+"week":16,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X4359"
+},{
+"className":"Vehicle Design and Analysis",
+"week":16,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X4359"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":2,
+"session":3,
+"mtype":"Lab（Group2）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":2,
+"session":4,
+"mtype":"Lab（Group2）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":2,
+"session":5,
+"mtype":"Lab（Group2）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":2,
+"session":8,
+"mtype":"Lab（Group3）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":2,
+"session":9,
+"mtype":"Lab（Group3）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":2,
+"session":10,
+"mtype":"Lab（Group3）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":3,
+"session":3,
+"mtype":"Lab（Group4）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":3,
+"session":4,
+"mtype":"Lab（Group4）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":3,
+"session":5,
+"mtype":"Lab（Group4）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Individual Engineering Project",
+"week":16,
+"weekday":3,
+"session":6,
 "mtype":"",
-"teacher":"胡豪",
-"venue":"X1512"
+"teacher":"Tanya Wallis",
+"venue":"X1121"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":3,
+"session":8,
+"mtype":"Lab（Group5）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":3,
+"session":9,
+"mtype":"Lab（Group5）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":3,
+"session":10,
+"mtype":"Lab（Group5）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":4,
+"session":3,
+"mtype":"Lab（Group6）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":4,
+"session":4,
+"mtype":"Lab（Group6）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":16,
+"weekday":4,
+"session":5,
+"mtype":"Lab（Group6）",
+"teacher":"ZENG Yikai",
+"venue":"Lab venue"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":16,
+"weekday":5,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":16,
+"weekday":5,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X9306"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":16,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":3,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":4,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":5,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"TBD",
+"venue":"TBD"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Vehicle Design and Analysis",
+"week":17,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Vehicle Design and Analysis",
+"week":17,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Weiqun",
+"venue":"X9306"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":2,
+"session":5,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":2,
+"session":8,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":2,
+"session":9,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":2,
+"session":10,
+"mtype":"L",
+"teacher":"Andrew Shires",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3（8:00-10:25)",
+"week":17,
+"weekday":3,
+"session":1,
+"mtype":"Lab（Group1）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（8:00-10:25)",
+"week":17,
+"weekday":3,
+"session":2,
+"mtype":"Lab（Group1）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（10:40-13:05)",
+"week":17,
+"weekday":3,
+"session":3,
+"mtype":"Lab（Group2）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（10:40-13:05)",
+"week":17,
+"weekday":3,
+"session":4,
+"mtype":"Lab（Group2）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（10:40-13:05)",
+"week":17,
+"weekday":3,
+"session":5,
+"mtype":"Lab（Group2）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":3,
+"session":8,
+"mtype":"Lab（Group3）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":3,
+"session":9,
+"mtype":"Lab（Group3）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":3,
+"session":10,
+"mtype":"Lab（Group3）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（8:00-10:25)",
+"week":17,
+"weekday":4,
+"session":1,
+"mtype":"Lab（Group4）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（8:00-10:25)",
+"week":17,
+"weekday":4,
+"session":2,
+"mtype":"Lab（Group4）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（10:40-13:05)",
+"week":17,
+"weekday":4,
+"session":3,
+"mtype":"Lab（Group5）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（10:40-13:05)",
+"week":17,
+"weekday":4,
+"session":4,
+"mtype":"Lab（Group5）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3（10:40-13:05)",
+"week":17,
+"weekday":4,
+"session":5,
+"mtype":"Lab（Group5）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":17,
+"weekday":5,
+"session":1,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X2211"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":17,
+"weekday":5,
+"session":2,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X2211"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":5,
+"session":3,
+"mtype":"Lab（Group6）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":5,
+"session":4,
+"mtype":"Lab（Group6）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Thermofluids 3",
+"week":17,
+"weekday":5,
+"session":5,
+"mtype":"Lab（Group6）",
+"teacher":"Andrew Shires",
+"venue":"Lab venue"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":17,
+"weekday":5,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
 }]
 }

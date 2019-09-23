@@ -1,12 +1,12 @@
 {
 "classInfo":[
 {
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":1,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":1,
 "weekday":1,
 "session":5
@@ -46,12 +46,12 @@
 "weekday":2,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":1,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":1,
 "weekday":2,
 "session":9
@@ -96,27 +96,27 @@
 "weekday":3,
 "session":16
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":1,
 "weekday":4,
 "session":1
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":1,
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":1,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":1,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":1,
 "weekday":4,
 "session":6
@@ -141,147 +141,227 @@
 "weekday":5,
 "session":9
 },{
-"className":"Maths G1-7 (X4359)",
+"className":"0.333333333333333",
+"week":2,
+"weekday":1,
+"session":1
+},{
+"className":"0.3680555555555552",
+"week":2,
+"weekday":1,
+"session":2
+},{
+"className":"0.3993055555555552",
+"week":2,
+"weekday":1,
+"session":3
+},{
+"className":"0.4097222222222219",
 "week":2,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7 (X4359)",
+"className":"0.4444444444444441",
 "week":2,
 "weekday":1,
 "session":5
 },{
-"className":"English G1-7",
+"className":"0.4791666666666663",
+"week":2,
+"weekday":1,
+"session":6
+},{
+"className":"0.5104166666666663",
+"week":2,
+"weekday":1,
+"session":7
+},{
+"className":"0.583333333333333",
 "week":2,
 "weekday":1,
 "session":8
 },{
-"className":"English G1-7",
+"className":"0.6180555555555552",
 "week":2,
 "weekday":1,
 "session":9
 },{
+"className":"0.6493055555555552",
+"week":2,
+"weekday":1,
+"session":10
+},{
+"className":"0.6597222222222219",
+"week":2,
+"weekday":1,
+"session":11
+},{
+"className":"0.6944444444444441",
+"week":2,
+"weekday":1,
+"session":12
+},{
+"className":"0.7291666666666663",
+"week":2,
+"weekday":1,
+"session":13
+},{
+"className":"0.7604166666666663",
+"week":2,
+"weekday":1,
+"session":14
+},{
+"className":"0.8124999999999997",
+"week":2,
+"weekday":1,
+"session":15
+},{
+"className":"0.8472222222222219",
+"week":2,
+"weekday":1,
+"session":16
+},{
+"className":"Maths G1-7 (X4359) ",
+"week":2,
+"weekday":2,
+"session":4
+},{
+"className":"Maths G1-7 (X4359) ",
+"week":2,
+"weekday":2,
+"session":5
+},{
 "className":"English G1-7",
 "week":2,
 "weekday":2,
+"session":8
+},{
+"className":"English G1-7",
+"week":2,
+"weekday":2,
+"session":9
+},{
+"className":"English G1-7",
+"week":2,
+"weekday":3,
 "session":1
 },{
 "className":"English G1-7",
 "week":2,
-"weekday":2,
+"weekday":3,
 "session":2
 },{
 "className":"Physics G1-7 (X4359)",
 "week":2,
-"weekday":2,
+"weekday":3,
 "session":4
 },{
 "className":"Physics G1-7 (X4359)",
 "week":2,
-"weekday":2,
+"weekday":3,
 "session":5
 },{
 "className":"Physics G1-7 (X4359)",
 "week":2,
-"weekday":2,
+"weekday":3,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":2,
-"weekday":2,
+"weekday":3,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":2,
-"weekday":2,
+"weekday":3,
 "session":9
 },{
 "className":"English G1-7",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":4
 },{
 "className":"English G1-7",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":5
 },{
 "className":"English G1-7",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":6
 },{
 "className":"Maths G1-7 (X4359)",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":11
 },{
 "className":"Maths G1-7 (X4359)",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":12
 },{
 "className":"Maths G1-7 (X4359)",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":13
 },{
 "className":"Lab(1)5 (X6208)",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":15
 },{
 "className":"Lab(1)5 (X6208)",
 "week":2,
-"weekday":3,
+"weekday":4,
 "session":16
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
-"week":2,
-"weekday":4,
-"session":4
-},{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
-"week":2,
-"weekday":4,
-"session":5
-},{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
-"week":2,
-"weekday":4,
-"session":6
-},{
-"className":"Maths G1-7(X4359)",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":2,
 "weekday":5,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":2,
 "weekday":5,
 "session":5
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":2,
 "weekday":5,
 "session":6
 },{
-"className":"English G1-7",
+"className":"Maths G1-7 (X4359)",
 "week":2,
-"weekday":5,
+"weekday":6,
+"session":4
+},{
+"className":"Maths G1-7 (X4359)",
+"week":2,
+"weekday":6,
+"session":5
+},{
+"className":"Maths G1-7 (X4359)",
+"week":2,
+"weekday":6,
+"session":6
+},{
+"className":"English  G1-7",
+"week":2,
+"weekday":6,
 "session":8
 },{
-"className":"English G1-7",
+"className":"English  G1-7",
 "week":2,
-"weekday":5,
+"weekday":6,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":3,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":3,
 "weekday":1,
 "session":5
@@ -306,12 +386,12 @@
 "weekday":2,
 "session":2
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":3,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":3,
 "weekday":2,
 "session":9
@@ -366,32 +446,32 @@
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":3,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":3,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":3,
 "weekday":4,
 "session":6
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":3,
 "weekday":5,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":3,
 "weekday":5,
 "session":5
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":3,
 "weekday":5,
 "session":6
@@ -406,12 +486,12 @@
 "weekday":5,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":4,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":4,
 "weekday":1,
 "session":5
@@ -426,12 +506,12 @@
 "weekday":1,
 "session":9
 },{
-"className":"English LectureG1-7 (TBD)",
+"className":"English Lecture G1-7 (X4352)",
 "week":4,
 "weekday":1,
 "session":11
 },{
-"className":"English LectureG1-7 (TBD)",
+"className":"English Lecture G1-7 (X4352)",
 "week":4,
 "weekday":1,
 "session":12
@@ -446,12 +526,12 @@
 "weekday":2,
 "session":2
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":4,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":4,
 "weekday":2,
 "session":9
@@ -496,27 +576,27 @@
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":4,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":4,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":4,
 "weekday":4,
 "session":6
 },{
-"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515, X1514)",
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":4,
 "weekday":4,
 "session":8
 },{
-"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515, X1514)",
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":4,
 "weekday":4,
 "session":9
@@ -546,12 +626,12 @@
 "weekday":5,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":5,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":5,
 "weekday":1,
 "session":5
@@ -566,12 +646,12 @@
 "weekday":1,
 "session":9
 },{
-"className":"English LectureG1-7 (TBD)",
+"className":"English Lecture G1-7 (X4352)",
 "week":5,
 "weekday":1,
 "session":11
 },{
-"className":"English LectureG1-7 (TBD)",
+"className":"English Lecture G1-7 (X4352)",
 "week":5,
 "weekday":1,
 "session":12
@@ -596,12 +676,12 @@
 "weekday":2,
 "session":5
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":5,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":5,
 "weekday":2,
 "session":9
@@ -631,27 +711,27 @@
 "weekday":3,
 "session":12
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":5,
 "weekday":4,
 "session":1
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":5,
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":5,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":5,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":5,
 "weekday":4,
 "session":6
@@ -676,17 +756,17 @@
 "weekday":5,
 "session":12
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":6,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":6,
 "weekday":1,
 "session":5
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":6,
 "weekday":1,
 "session":6
@@ -721,12 +801,12 @@
 "weekday":2,
 "session":5
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":6,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":6,
 "weekday":2,
 "session":9
@@ -761,27 +841,27 @@
 "weekday":3,
 "session":13
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":6,
 "weekday":4,
 "session":1
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":6,
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":6,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":6,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":6,
 "weekday":4,
 "session":6
@@ -795,6 +875,16 @@
 "week":6,
 "weekday":4,
 "session":9
+},{
+"className":"English G1-7",
+"week":7,
+"weekday":1,
+"session":1
+},{
+"className":"English G1-7",
+"week":7,
+"weekday":1,
+"session":2
 },{
 "className":"Physics G1-7 (X4359)",
 "week":7,
@@ -846,6 +936,16 @@
 "weekday":1,
 "session":16
 },{
+"className":"English G1-7",
+"week":7,
+"weekday":2,
+"session":1
+},{
+"className":"English G1-7",
+"week":7,
+"weekday":2,
+"session":2
+},{
 "className":"Physics G1-7 (X4359)",
 "week":7,
 "weekday":2,
@@ -861,22 +961,37 @@
 "weekday":2,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":7,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":7,
 "weekday":2,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Introduction to Civil (X4357)",
+"week":7,
+"weekday":2,
+"session":11
+},{
+"className":"Introduction to Civil (X4357)",
+"week":7,
+"weekday":2,
+"session":12
+},{
+"className":"Introduction to Civil (X4357)",
+"week":7,
+"weekday":2,
+"session":13
+},{
+"className":"Maths G1-7 (X4359)",
 "week":7,
 "weekday":2,
 "session":15
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":7,
 "weekday":2,
 "session":16
@@ -896,112 +1011,97 @@
 "weekday":3,
 "session":6
 },{
-"className":"English lecture G1-7(X4359)",
+"className":"English lecture G1-7 (X4359)",
 "week":7,
 "weekday":3,
 "session":8
 },{
-"className":"English lecture G1-7(X4359)",
+"className":"English lecture G1-7 (X4359)",
 "week":7,
 "weekday":3,
 "session":9
 },{
-"className":"English class 1-2 (X4359)",
+"className":"English class1-2 (X9304)",
 "week":7,
 "weekday":3,
 "session":11
 },{
-"className":"English class 1-2 (X4359)",
+"className":"English class1-2 (X9304)",
 "week":7,
 "weekday":3,
 "session":12
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"English workshop 7 (X9304)",
+"week":7,
+"weekday":3,
+"session":15
+},{
+"className":"English workshop 7 (X9304)",
+"week":7,
+"weekday":3,
+"session":16
+},{
+"className":"English class   3-4(X9304）",
+"week":7,
+"weekday":4,
+"session":1
+},{
+"className":"English class   3-4(X9304）",
+"week":7,
+"weekday":4,
+"session":2
+},{
+"className":"Chinese Modern and Contemporary History 1-14 ",
 "week":7,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 ",
 "week":7,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 ",
 "week":7,
 "weekday":4,
 "session":6
 },{
-"className":"English class 3-4 (TBD)",
+"className":"English class 5-6 (X9304)",
 "week":7,
 "weekday":4,
 "session":8
 },{
-"className":"English class 3-4 (TBD)",
+"className":"English class 5-6 (X9304)",
 "week":7,
 "weekday":4,
 "session":9
 },{
-"className":"Physics lectureG1-7 (X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":7,
 "weekday":4,
 "session":11
 },{
-"className":"Physics lecture 8-14 (X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":7,
 "weekday":4,
 "session":12
 },{
-"className":"English G1-7",
+"className":"Physics G1-7",
 "week":7,
-"weekday":5,
-"session":1
+"weekday":4,
+"session":15
 },{
-"className":"English G1-7",
+"className":"Physics 8-14",
 "week":7,
-"weekday":5,
-"session":2
+"weekday":4,
+"session":16
 },{
-"className":"English class 5-6(X4359)",
-"week":7,
-"weekday":5,
-"session":4
-},{
-"className":"English class 5-6(X4359)",
-"week":7,
-"weekday":5,
-"session":5
-},{
-"className":"English class 7 (X4359)",
-"week":7,
-"weekday":5,
-"session":8
-},{
-"className":"English class 7 (X4359)",
-"week":7,
-"weekday":5,
-"session":9
-},{
-"className":"Physics G1-7 (X4359)",
-"week":7,
-"weekday":5,
-"session":11
-},{
-"className":"Physics G1-7 (X4359)",
-"week":7,
-"weekday":5,
-"session":12
-},{
-"className":"Physics G1-7 (X4359)",
-"week":7,
-"weekday":5,
-"session":13
-},{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":8,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":8,
 "weekday":1,
 "session":5
@@ -1051,12 +1151,12 @@
 "weekday":2,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":8,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":8,
 "weekday":2,
 "session":9
@@ -1126,27 +1226,27 @@
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":8,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":8,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":8,
 "weekday":4,
 "session":6
 },{
-"className":"Current Affairs 21-14(刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"className":"Current Affairs 21-14(刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":8,
 "weekday":4,
 "session":8
 },{
-"className":"Current Affairs 21-14(刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"className":"Current Affairs 21-14(刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":8,
 "weekday":4,
 "session":9
@@ -1161,12 +1261,12 @@
 "weekday":5,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":9,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":9,
 "weekday":1,
 "session":5
@@ -1221,12 +1321,12 @@
 "weekday":2,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":9,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":9,
 "weekday":2,
 "session":9
@@ -1281,17 +1381,17 @@
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":9,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":9,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":9,
 "weekday":4,
 "session":6
@@ -1306,6 +1406,21 @@
 "weekday":5,
 "session":9
 },{
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
+"week":9,
+"weekday":7,
+"session":4
+},{
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
+"week":9,
+"weekday":7,
+"session":5
+},{
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
+"week":9,
+"weekday":7,
+"session":6
+},{
 "className":"Physics G1-7 (X4359)",
 "week":10,
 "weekday":1,
@@ -1331,12 +1446,12 @@
 "weekday":1,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":10,
 "weekday":1,
 "session":11
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":10,
 "weekday":1,
 "session":12
@@ -1361,47 +1476,32 @@
 "weekday":2,
 "session":5
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":10,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":10,
 "weekday":2,
 "session":9
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
-"week":10,
-"weekday":4,
-"session":4
-},{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
-"week":10,
-"weekday":4,
-"session":5
-},{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
-"week":10,
-"weekday":4,
-"session":6
-},{
 "className":"English G1-7",
 "week":10,
-"weekday":5,
+"weekday":7,
 "session":8
 },{
 "className":"English G1-7",
 "week":10,
-"weekday":5,
+"weekday":7,
 "session":9
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":11,
 "weekday":1,
 "session":4
 },{
-"className":"Maths G1-7(X4359)",
+"className":"Maths G1-7 (X4359)",
 "week":11,
 "weekday":1,
 "session":5
@@ -1441,22 +1541,22 @@
 "weekday":2,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":11,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":11,
 "weekday":2,
 "session":9
 },{
-"className":"Englishlecture G1-7(TBD）",
+"className":"English lecture G1-7 (TBD）",
 "week":11,
 "weekday":2,
 "session":11
 },{
-"className":"Englishlecture G1-7(TBD）",
+"className":"English lecture G1-7 (TBD）",
 "week":11,
 "weekday":2,
 "session":12
@@ -1471,27 +1571,27 @@
 "weekday":3,
 "session":5
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":11,
 "weekday":4,
 "session":1
 },{
-"className":"Physics G1-7(X4359)",
+"className":"Physics G1-7 (X4359)",
 "week":11,
 "weekday":4,
 "session":2
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":11,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":11,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":11,
 "weekday":4,
 "session":6
@@ -1511,177 +1611,177 @@
 "weekday":5,
 "session":13
 },{
-"className":"English revision lecture G1-7(X4359)",
+"className":"English revision lectureG1-7 (X4359)",
 "week":12,
 "weekday":1,
 "session":4
 },{
-"className":"English revision lecture G1-7(X4359)",
+"className":"English revision lectureG1-7 (X4359)",
 "week":12,
 "weekday":1,
 "session":5
 },{
-"className":"English revision lecture G1-7(X4359)",
+"className":"English revision lectureG1-7 (X4359)",
 "week":12,
 "weekday":1,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":12,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":12,
 "weekday":2,
 "session":9
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":12,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":12,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":12,
 "weekday":4,
 "session":6
 },{
-"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":12,
 "weekday":4,
 "session":8
 },{
-"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":12,
 "weekday":4,
 "session":9
 },{
-"className":"English Revision lecture G1-7(X4359)",
+"className":"English Revision lectureG1-7 (X4359)",
 "week":12,
 "weekday":5,
 "session":11
 },{
-"className":"English Revision lecture G1-7(X4359)",
+"className":"English Revision lectureG1-7 (X4359)",
 "week":12,
 "weekday":5,
 "session":12
 },{
-"className":"English Revision lecture G1-7(X4359)",
+"className":"English Revision lectureG1-7 (X4359)",
 "week":12,
 "weekday":5,
 "session":13
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":13,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":13,
 "weekday":2,
 "session":9
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":13,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":13,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":13,
 "weekday":4,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":14,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":14,
 "weekday":2,
 "session":9
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":14,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":14,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":14,
 "weekday":4,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":15,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":15,
 "weekday":2,
 "session":9
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":15,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":15,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":15,
 "weekday":4,
 "session":6
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":16,
 "weekday":2,
 "session":8
 },{
-"className":"PE G1-7(北区田径场,犀浦）",
+"className":"PE G1-7 (北区田径场,犀浦）",
 "week":16,
 "weekday":2,
 "session":9
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":16,
 "weekday":4,
 "session":4
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":16,
 "weekday":4,
 "session":5
 },{
-"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华, X4358,X4359）",
+"className":"Chinese Modern and Contemporary History 1-14 (陈洁、王立华,X4358,X4359）",
 "week":16,
 "weekday":4,
 "session":6
 },{
-"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":16,
 "weekday":4,
 "session":8
 },{
-"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514)",
+"className":"Current Affairs 21-14 (刘耀谦、周章领、赵晨,X4359,X1515,X1514) ",
 "week":16,
 "weekday":4,
 "session":9

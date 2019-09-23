@@ -35,7 +35,7 @@ def basicSetting():
 	info = "欢迎使用课程表生成工具。\n接下来你需要设置一些基础的信息方便生成数据\n"
 	print (info)
 	
-	info = "请设置第一周的星期一日期(如：20180903):\n"
+	info = "请设置第一周的星期一日期(如：20190826):\n"
 	firstWeekDate = input(info)
 	checkInput(checkFirstWeekDate, firstWeekDate)
 	info = "正在配置上课时间信息……\n"
