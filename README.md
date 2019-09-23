@@ -13,5 +13,18 @@ Based on Python, the project is for converting the curriculum in Excel format to
 '*.xlsx' is the imported class timetable file.  
 '*.ics' is the exported calendar file.  
 
-#Version 1.0
+建议使用日历软件搭配服务器使用，可以做到服务端更新，客户端自动同步更新。
+
+
+订阅地址可以尝试：
+-
+1. https://drymx.com/cal/MEY4N.ics #最后文件名为专业（ME、EE、CS、CE）+年级（Y1、Y2、Y3、Y4）+是否提前30分钟提醒（Y/N）+.ics。
+2. https://drymx.cn/cal/MEY4N.ics #国内服务器
+
+没怎么更新维护代码，感兴趣的可以优化一下，本人并不是CS专业的。
+
+!2019年后不保证及时更新。
+
+#Version 2019 (2.0)
+
 #Just do it. 
