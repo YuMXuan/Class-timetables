@@ -1,767 +1,1975 @@
 {
 "classInfo":[
 {
-"className":"Individual Engineering Project",
+"className":"XJCV1360",
 "week":1,
 "weekday":1,
-"session":1,
+"session":6,
 "mtype":"L",
-"teacher":"TIAN Huaiwen",
-"venue":"X2211"
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Individual Engineering Project",
+"className":"XJCV1360",
 "week":1,
 "weekday":1,
-"session":2,
+"session":7,
 "mtype":"L",
-"teacher":"TIAN Huaiwen",
-"venue":"X2211"
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":1,
 "weekday":1,
-"session":3,
+"session":8,
 "mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X4359"
+"teacher":"HE Qing",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":1,
 "weekday":1,
-"session":4,
+"session":9,
 "mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X4359"
+"teacher":"HE Qing",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
-"week":1,
-"weekday":1,
-"session":5,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X4359"
-},{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":1,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":1,
 "weekday":2,
 "session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":1,
 "weekday":2,
 "session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"形势与政策7",
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":1,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":1,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":1,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":1,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1360",
+"week":1,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":1,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":1,
+"weekday":4,
+"session":1,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":1,
+"weekday":4,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":1,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":1,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":1,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":1,
+"weekday":4,
+"session":6,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":1,
+"weekday":4,
+"session":7,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":1,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":1,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":1,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1665",
+"week":1,
+"weekday":5,
+"session":6,
+"mtype":"W/L",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":1,
+"weekday":5,
+"session":7,
+"mtype":"W/L",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":2,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":2,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":2,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"YANG Rongshan",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":2,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"YANG Rongshan",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":2,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":2,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":2,
+"weekday":2,
+"session":3,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":2,
+"weekday":2,
+"session":4,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":2,
+"weekday":2,
+"session":5,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":2,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":2,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":2,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":2,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":2,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1360",
+"week":2,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":2,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":2,
+"weekday":4,
+"session":1,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":2,
+"weekday":4,
+"session":2,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":2,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"YANG Rongshan",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":2,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"YANG Rongshan",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":2,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"YANG Rongshan",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":2,
+"weekday":4,
+"session":6,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":2,
+"weekday":4,
+"session":7,
+"mtype":"L",
+"teacher":"ZHANG Jianjing",
+"venue":"X9406"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":2,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":2,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":2,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":1,
+"session":3,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah ",
+"venue":"X2227"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":1,
+"session":4,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah ",
+"venue":"X2227"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":1,
+"session":10,
+"mtype":"L",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":2,
+"session":5,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":3,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":3,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":3,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":3,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":3,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":3,
+"session":6,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":3,
+"weekday":3,
+"session":7,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":3,
+"session":8,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":3,
+"session":9,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":3,
+"session":10,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":3,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"形势与政策3 Current Affairs 3",
+"week":3,
 "weekday":4,
 "session":6,
 "mtype":"",
 "teacher":"TBD",
 "venue":""
 },{
-"className":"形势与政策7",
-"week":1,
+"className":"形势与政策3 Current Affairs 3",
+"week":3,
 "weekday":4,
 "session":7,
 "mtype":"None",
 "teacher":"TBD",
 "venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
-"week":1,
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":3,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X4359"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
-"week":1,
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":3,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X4359"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
-"week":1,
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":3,
 "weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Additive Manufacturing",
-"week":2,
+"className":"XJCV1665",
+"week":4,
 "weekday":1,
-"session":2,
+"session":3,
 "mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Vehicle Design and Analysis",
-"week":2,
-"weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
+"teacher":"HE Qing",
 "venue":"X9306"
 },{
-"className":"Vehicle Design and Analysis",
-"week":2,
-"weekday":2,
-"session":2,
+"className":"XJCV1665",
+"week":4,
+"weekday":1,
+"session":4,
 "mtype":"L",
-"teacher":"LIU Weiqun",
+"teacher":"HE Qing",
 "venue":"X9306"
 },{
-"className":"Thermofluids 3",
-"week":2,
-"weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":2,
-"weekday":5,
-"session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X4359"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":2,
-"weekday":5,
-"session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X4359"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":2,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":3,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Additive Manufacturing",
-"week":3,
-"weekday":1,
-"session":3,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":3,
-"weekday":1,
-"session":4,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":3,
+"className":"XJCV1665",
+"week":4,
 "weekday":1,
 "session":5,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":3,
-"weekday":1,
-"session":8,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":3,
-"weekday":1,
-"session":9,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":3,
-"weekday":1,
-"session":10,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Vehicle Design and Analysis",
-"week":3,
-"weekday":2,
-"session":1,
 "mtype":"L",
-"teacher":"LIU Weiqun",
+"teacher":"HE Qing",
 "venue":"X9306"
 },{
-"className":"Vehicle Design and Analysis",
-"week":3,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Thermofluids 3",
-"week":3,
-"weekday":2,
+"className":"XJCV1460",
+"week":4,
+"weekday":1,
 "session":6,
 "mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1460",
 "week":4,
 "weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Vehicle Design and Analysis",
-"week":4,
-"weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Vehicle Design and Analysis",
-"week":4,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Thermofluids 3",
-"week":4,
-"weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":4,
-"weekday":5,
-"session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":4,
-"weekday":5,
-"session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":4,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":3,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":4,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":5,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":8,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":9,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":5,
-"weekday":1,
-"session":10,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Vehicle Design and Analysis",
-"week":5,
-"weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Vehicle Design and Analysis",
-"week":5,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":2,
-"session":3,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":2,
-"session":4,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":2,
-"session":5,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":5,
-"weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":2,
-"session":8,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":2,
-"session":9,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":2,
-"session":10,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":3,
-"session":3,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":3,
-"session":4,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":3,
-"session":5,
-"mtype":"L",
-"teacher":"TBD",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":3,
-"session":6,
-"mtype":"Lab",
-"teacher":"TBD",
-"venue":"X7304"
-},{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":3,
 "session":7,
-"mtype":"Lab",
-"teacher":"TBD",
-"venue":"X7304"
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
 },{
-"className":"Individual Engineering Project",
-"week":5,
-"weekday":3,
+"className":"XJCV1665",
+"week":4,
+"weekday":1,
+"session":8,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":4,
+"weekday":1,
+"session":9,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":4,
+"weekday":1,
+"session":10,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":2,
+"session":1,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":2,
+"session":2,
+"mtype":"L",
+"teacher":"Sam Adu-Amnkwah",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":2,
+"session":5,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":4,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":4,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":4,
+"weekday":2,
 "session":8,
 "mtype":"",
-"teacher":"Tanya Wallis",
-"venue":"X1121"
+"teacher":"",
+"venue":""
 },{
-"className":"形势与政策7",
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":4,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":4,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":3,
+"session":1,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X1219"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":3,
+"session":2,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X1219"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X1219"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X1219"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"GUO Rui",
+"venue":"X1219"
+},{
+"className":"XJCV1160",
+"week":4,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":4,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":4,
+"weekday":3,
+"session":10,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":4,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":4,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":4,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"HE Qing",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":4,
+"session":8,
+"mtype":"W/L(Lab) G1",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":4,
+"session":9,
+"mtype":"W/L(Lab) G1",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":4,
+"session":10,
+"mtype":"W/L(Lab) G1",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":4,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":4,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":4,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"Dariusz",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":5,
+"session":9,
+"mtype":"L",
+"teacher":"Dariusz",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":4,
+"weekday":5,
+"session":10,
+"mtype":"L",
+"teacher":"Dariusz",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
 "week":5,
+"weekday":1,
+"session":3,
+"mtype":"W/L(Lab) G2",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":1,
+"session":4,
+"mtype":"W/L(Lab) G2",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":1,
+"session":5,
+"mtype":"W/L(Lab) G2",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":1,
+"session":8,
+"mtype":"W/L(Lab) G3",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":1,
+"session":9,
+"mtype":"W/L(Lab) G3",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":1,
+"session":10,
+"mtype":"W/L(Lab) G3",
+"teacher":"LI Fuhai",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1560",
+"week":5,
+"weekday":2,
+"session":3,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":5,
+"weekday":2,
+"session":4,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":5,
+"weekday":2,
+"session":5,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":5,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":5,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":5,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":5,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":5,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":5,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJFY1000",
+"week":5,
+"weekday":3,
+"session":6,
+"mtype":"L",
+"teacher":"Tanya Wallis",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":5,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":5,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":5,
+"weekday":3,
+"session":10,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":5,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":5,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":5,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9506"
+},{
+"className":"XJCV1360",
+"week":7,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":7,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":1,
+"session":8,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":1,
+"session":9,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":1,
+"session":10,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":7,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":7,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":7,
+"weekday":2,
+"session":3,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":7,
+"weekday":2,
+"session":4,
+"mtype":"L ",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":7,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":7,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":7,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":7,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":7,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
+"week":7,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":7,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":7,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":7,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":7,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":7,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":7,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJFY1000",
+"week":7,
+"weekday":3,
+"session":11,
+"mtype":"T(Group1)",
+"teacher":"Tanya Wallis",
+"venue":"X9506"
+},{
+"className":"XJFY1000",
+"week":7,
+"weekday":3,
+"session":12,
+"mtype":"T(Group2)",
+"teacher":"Tanya Wallis",
+"venue":"X9506"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":7,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"形势与政策3 Current Affairs 3",
+"week":7,
 "weekday":4,
 "session":6,
 "mtype":"",
 "teacher":"TBD",
 "venue":""
 },{
-"className":"形势与政策7",
-"week":5,
+"className":"形势与政策3 Current Affairs 3",
+"week":7,
 "weekday":4,
 "session":7,
 "mtype":"None",
 "teacher":"TBD",
 "venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
-"week":5,
-"weekday":5,
-"session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":5,
-"weekday":5,
-"session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":5,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":7,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Vehicle Design and Analysis",
-"week":7,
-"weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Vehicle Design and Analysis",
-"week":7,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
-},{
-"className":"Thermofluids 3",
-"week":7,
-"weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":7,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":7,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":7,
 "weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":8,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Additive Manufacturing",
-"week":8,
-"weekday":1,
-"session":3,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":8,
-"weekday":1,
-"session":4,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Additive Manufacturing",
-"week":8,
-"weekday":1,
 "session":5,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1260",
+"week":7,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":7,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":7,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":7,
+"weekday":5,
+"session":9,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":7,
+"weekday":5,
+"session":10,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":8,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9506"
+},{
+"className":"XJFY1000",
+"week":8,
+"weekday":1,
+"session":3,
+"mtype":"T(Group1)",
+"teacher":"Tanya Wallis",
+"venue":"X2229"
+},{
+"className":"XJFY1000",
+"week":8,
+"weekday":1,
+"session":4,
+"mtype":"T(Group2)",
+"teacher":"Tanya Wallis",
+"venue":"X2229"
+},{
+"className":"XJCV1360",
+"week":8,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":8,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
 "week":8,
 "weekday":1,
 "session":8,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":8,
 "weekday":1,
 "session":9,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":8,
 "weekday":1,
 "session":10,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":8,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":8,
 "weekday":2,
 "session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1560",
+"week":8,
+"weekday":2,
+"session":3,
+"mtype":"T",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":8,
+"weekday":2,
+"session":4,
+"mtype":"T",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":8,
 "weekday":2,
 "session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Individual Engineering Project",
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":8,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":8,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":8,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":8,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
+"week":8,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":8,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":8,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":8,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":8,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
 "week":8,
 "weekday":3,
 "session":8,
-"mtype":"",
-"teacher":"Tanya Wallis",
-"venue":"X2211"
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"XJCV1160",
+"week":8,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":8,
+"weekday":4,
+"session":3,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":8,
+"weekday":4,
+"session":4,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":8,
+"weekday":4,
+"session":5,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1665",
+"week":8,
+"weekday":4,
+"session":8,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":8,
+"weekday":4,
+"session":9,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":8,
+"weekday":4,
+"session":10,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":8,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":8,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":8,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
 "week":8,
 "weekday":5,
 "session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":9,
-"weekday":1,
-"session":2,
 "mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1260",
+"week":8,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":8,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":8,
+"weekday":5,
+"session":9,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":8,
+"weekday":5,
+"session":10,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9406"
+},{
+"className":"XJFY1000",
 "week":9,
 "weekday":1,
 "session":3,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T(Group1)",
+"teacher":"Tanya Wallis",
+"venue":"X9306"
 },{
-"className":"Additive Manufacturing",
+"className":"XJFY1000",
 "week":9,
 "weekday":1,
 "session":4,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T(Group2)",
+"teacher":"Tanya Wallis",
+"venue":"X9306"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1360",
 "week":9,
 "weekday":1,
-"session":5,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"session":6,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1360",
+"week":9,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
 "week":9,
 "weekday":1,
 "session":8,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"L",
+"teacher":"XIA Song",
+"venue":"X4359"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":9,
 "weekday":1,
 "session":9,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X4359"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":9,
 "weekday":1,
 "session":10,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X4359"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":9,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":9,
 "weekday":2,
 "session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1560",
+"week":9,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":9,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":9,
 "weekday":2,
 "session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"形势与政策7",
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":9,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":9,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":9,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":9,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1665",
+"week":9,
+"weekday":3,
+"session":1,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":9,
+"weekday":3,
+"session":2,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9306"
+},{
+"className":"XJCV1260",
+"week":9,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":9,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":9,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":9,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":9,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"XIA Song",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":9,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":9,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":9,
+"weekday":4,
+"session":3,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":9,
+"weekday":4,
+"session":4,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":9,
+"weekday":4,
+"session":5,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"形势与政策3 Current Affairs 3",
 "week":9,
 "weekday":4,
 "session":6,
@@ -769,7 +1977,7 @@
 "teacher":"TBD",
 "venue":""
 },{
-"className":"形势与政策7",
+"className":"形势与政策3 Current Affairs 3",
 "week":9,
 "weekday":4,
 "session":7,
@@ -777,375 +1985,1071 @@
 "teacher":"TBD",
 "venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":9,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":9,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":9,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
 "week":9,
 "weekday":5,
 "session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1260",
+"week":9,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":9,
+"weekday":5,
+"session":8,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":9,
+"weekday":5,
+"session":9,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJFY1000",
 "week":10,
 "weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
+"session":3,
+"mtype":"T(Group1)",
+"teacher":"Tanya Wallis",
+"venue":"X9306"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJFY1000",
+"week":10,
+"weekday":1,
+"session":4,
+"mtype":"T(Group2)",
+"teacher":"Tanya Wallis",
+"venue":"X9306"
+},{
+"className":"XJCV1360",
+"week":10,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":10,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
 "week":10,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":10,
 "weekday":2,
 "session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1560",
+"week":10,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":10,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":10,
 "weekday":2,
 "session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":10,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":10,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":10,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":10,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
+"week":10,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":10,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":10,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":10,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":10,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":10,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":10,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":10,
+"weekday":4,
+"session":1,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":10,
+"weekday":4,
+"session":2,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJCV1260",
+"week":10,
+"weekday":4,
+"session":3,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":10,
+"weekday":4,
+"session":4,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":10,
+"weekday":4,
+"session":5,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":10,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":10,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":10,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
 "week":10,
 "weekday":5,
 "session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":11,
-"weekday":1,
-"session":2,
 "mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1260",
+"week":10,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":10,
+"weekday":5,
+"session":8,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":10,
+"weekday":5,
+"session":9,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":10,
+"weekday":5,
+"session":10,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
 "week":11,
 "weekday":2,
-"session":1,
+"session":3,
 "mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1560",
 "week":11,
 "weekday":2,
-"session":2,
+"session":4,
 "mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":11,
 "weekday":2,
 "session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Individual Engineering Project",
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":11,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":11,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":11,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":11,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
+"week":11,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":11,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":11,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
 "week":11,
 "weekday":3,
 "session":8,
-"mtype":"",
-"teacher":"Tanya Wallis",
-"venue":"X2211"
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"XJCV1160",
+"week":11,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
 "week":11,
 "weekday":4,
 "session":3,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X1121"
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"XJCV1260",
 "week":11,
 "weekday":4,
 "session":4,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X1121"
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"XJCV1260",
 "week":11,
 "weekday":4,
 "session":5,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X1121"
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"形势与政策3 Current Affairs 3",
 "week":11,
 "weekday":4,
 "session":6,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X4359"
+"mtype":"",
+"teacher":"TBD",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"形势与政策3 Current Affairs 3",
 "week":11,
 "weekday":4,
 "session":7,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X4359"
+"mtype":"None",
+"teacher":"TBD",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
-"week":11,
-"weekday":5,
-"session":1,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X4359"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":11,
-"weekday":5,
-"session":2,
-"mtype":"L",
-"teacher":"Alison C. Jones",
-"venue":"X4359"
-},{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":11,
 "weekday":5,
 "session":3,
-"mtype":"Lab",
-"teacher":"Alison C. Jones",
-"venue":"X7304"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":11,
 "weekday":5,
 "session":4,
-"mtype":"Lab",
-"teacher":"Alison C. Jones",
-"venue":"X7304"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":11,
 "weekday":5,
 "session":5,
-"mtype":"Lab",
-"teacher":"Alison C. Jones",
-"venue":"X7304"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Additive Manufacturing",
-"week":12,
-"weekday":1,
-"session":2,
+"className":"XJCV1260",
+"week":11,
+"weekday":5,
+"session":6,
 "mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1260",
+"week":11,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":11,
+"weekday":5,
+"session":8,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":11,
+"weekday":5,
+"session":9,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":11,
+"weekday":5,
+"session":10,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9306"
+},{
+"className":"XJCV1360",
 "week":12,
 "weekday":1,
 "session":3,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9306"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1360",
 "week":12,
 "weekday":1,
 "session":4,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9306"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1360",
 "week":12,
 "weekday":1,
 "session":5,
-"mtype":"Lab（Group1）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9306"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1360",
+"week":12,
+"weekday":1,
+"session":6,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":1,
+"session":7,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
 "week":12,
 "weekday":1,
 "session":8,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"Ethics ",
+"teacher":"Christina + new Ethics Staff",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
+"className":"XJCV1665",
 "week":12,
 "weekday":1,
 "session":9,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
+"mtype":"Ethics ",
+"teacher":"Christina + new Ethics Staff",
+"venue":"X9406"
 },{
-"className":"Additive Manufacturing",
-"week":12,
-"weekday":1,
-"session":10,
-"mtype":"Lab（Group2）",
-"teacher":"ZHANG Min",
-"venue":"工程训练中心（A318）"
-},{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":12,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X1121"
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":12,
 "weekday":2,
 "session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X1121"
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1360",
 "week":12,
 "weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Individual Engineering Project",
-"week":12,
-"weekday":3,
-"session":8,
-"mtype":"Ethics",
-"teacher":"New staff",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":12,
-"weekday":3,
-"session":9,
-"mtype":"Ethics",
-"teacher":"New staff",
-"venue":"X2211"
-},{
-"className":"Individual Engineering Project",
-"week":12,
-"weekday":3,
-"session":10,
-"mtype":"Ethics",
-"teacher":"New staff",
-"venue":"X2211"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":12,
-"weekday":5,
 "session":3,
 "mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"teacher":"Suhaila Matter",
+"venue":"X9406"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"XJCV1360",
 "week":12,
-"weekday":5,
+"weekday":2,
 "session":4,
 "mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"teacher":"Suhaila Matter",
+"venue":"X9406"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"XJCV1360",
 "week":12,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":13,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Vehicle Design and Analysis",
-"week":13,
 "weekday":2,
-"session":1,
+"session":5,
 "mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X1121"
+"teacher":"Suhaila Matter",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
-"week":13,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X1121"
-},{
-"className":"Thermofluids 3",
-"week":13,
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":12,
 "weekday":2,
 "session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Individual Engineering Project",
-"week":13,
-"weekday":3,
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":12,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":12,
+"weekday":2,
 "session":8,
 "mtype":"",
-"teacher":"Tanya Wallis",
-"venue":"X1121"
+"teacher":"",
+"venue":""
 },{
-"className":"形势与政策7",
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":12,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":12,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":3,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":4,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":5,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":6,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":7,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":8,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":3,
+"session":9,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":4,
+"session":3,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":4,
+"session":4,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":4,
+"session":5,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":4,
+"session":6,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":4,
+"session":7,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9406"
+},{
+"className":"XJFY1000",
+"week":12,
+"weekday":4,
+"session":8,
+"mtype":"L",
+"teacher":"Christina Nick",
+"venue":"X4359"
+},{
+"className":"XJFY1000",
+"week":12,
+"weekday":4,
+"session":11,
+"mtype":"T(Seminar)Group1",
+"teacher":"Tanya Wallis",
+"venue":"X9506"
+},{
+"className":"XJFY1000",
+"week":12,
+"weekday":4,
+"session":12,
+"mtype":"T(Seminar)Group2",
+"teacher":"Tanya Wallis",
+"venue":"X9506"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":12,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":12,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":12,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":5,
+"session":6,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9506"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":5,
+"session":7,
+"mtype":"T ",
+"teacher":"Suhaila Matter",
+"venue":"X9506"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":5,
+"session":8,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9306"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":5,
+"session":9,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9306"
+},{
+"className":"XJCV1360",
+"week":12,
+"weekday":5,
+"session":10,
+"mtype":"L",
+"teacher":"Suhaila Matter",
+"venue":"X9306"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":2,
+"mtype":"L",
+"teacher":"Duncan +Andy",
+"venue":"TBD"
+},{
+"className":"XJFY1000",
+"week":13,
+"weekday":1,
+"session":3,
+"mtype":"T(Group1)",
+"teacher":"Tanya Wallis",
+"venue":"X9306"
+},{
+"className":"XJFY1000",
+"week":13,
+"weekday":1,
+"session":4,
+"mtype":"T(Group2)",
+"teacher":"Christina Nick",
+"venue":"TBD"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":8,
+"mtype":"W/L G2",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":9,
+"mtype":"W/L G2",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":10,
+"mtype":"W/L G2",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":11,
+"mtype":"W/L G1",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":12,
+"mtype":"W/L G1",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":1,
+"session":13,
+"mtype":"W/L G1",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":2,
+"session":3,
+"mtype":"W/L G2",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":2,
+"session":4,
+"mtype":"W/L G2",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":2,
+"session":5,
+"mtype":"W/L G2",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":13,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":13,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":13,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":13,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":13,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":3,
+"mtype":"W/L G1",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":4,
+"mtype":"W/L G1",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":5,
+"mtype":"W/L G1",
+"teacher":"Duncan +Andy",
+"venue":"(study room) Student bring laptop"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":6,
+"mtype":"L",
+"teacher":"Duncan +Andy",
+"venue":"TBD"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":7,
+"mtype":"L",
+"teacher":"Duncan +Andy",
+"venue":"TBD"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"Duncan",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"Duncan",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":3,
+"session":10,
+"mtype":"L",
+"teacher":"Duncan",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":4,
+"session":3,
+"mtype":"W/L ",
+"teacher":"Duncan +Andy",
+"venue":"X9406 (Students bring laptop)"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":4,
+"session":4,
+"mtype":"W/L ",
+"teacher":"Duncan +Andy",
+"venue":"X9406 (Students bring laptop)"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":4,
+"session":5,
+"mtype":"W/L ",
+"teacher":"Duncan +Andy",
+"venue":"X9406 (Students bring laptop)"
+},{
+"className":"形势与政策3 Current Affairs 3",
 "week":13,
 "weekday":4,
 "session":6,
@@ -1153,7 +3057,7 @@
 "teacher":"TBD",
 "venue":""
 },{
-"className":"形势与政策7",
+"className":"形势与政策3 Current Affairs 3",
 "week":13,
 "weekday":4,
 "session":7,
@@ -1161,652 +3065,1228 @@
 "teacher":"TBD",
 "venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":13,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
 "week":13,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":13,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1560",
 "week":13,
 "weekday":5,
 "session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
+"mtype":"L",
+"teacher":"Duncan",
+"venue":"X9406"
 },{
-"className":"Individual Engineering Project",
+"className":"XJCV1560",
+"week":13,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"Duncan",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":13,
+"weekday":5,
+"session":8,
+"mtype":"Question",
+"teacher":"Duncan +Andy",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
 "week":14,
 "weekday":1,
-"session":2,
+"session":3,
 "mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"TBD"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":1,
+"session":4,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"TBD"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":1,
+"session":5,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"TBD"
+},{
+"className":"XJCV1360",
+"week":14,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":14,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":14,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":14,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":14,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":14,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":14,
+"weekday":2,
+"session":6,
+"mtype":"",
 "teacher":"TBD",
-"venue":"X2211"
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Additive Manufacturing",
-"week":14,
-"weekday":1,
-"session":3,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"TBD"
-},{
-"className":"Additive Manufacturing",
-"week":14,
-"weekday":1,
-"session":4,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"TBD"
-},{
-"className":"Additive Manufacturing",
-"week":14,
-"weekday":1,
-"session":5,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"TBD"
-},{
-"className":"Vehicle Design and Analysis",
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":14,
 "weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X1121"
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
 "week":14,
 "weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X1121"
-},{
-"className":"Thermofluids 3",
-"week":14,
-"weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Individual Engineering Project",
-"week":14,
-"weekday":3,
 "session":8,
 "mtype":"",
-"teacher":"Tanya Wallis",
-"venue":"X1121"
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
 "week":14,
-"weekday":5,
-"session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":14,
-"weekday":5,
-"session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":14,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":15,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Vehicle Design and Analysis",
-"week":15,
-"weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X4359"
-},{
-"className":"Vehicle Design and Analysis",
-"week":15,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X4359"
-},{
-"className":"Thermofluids 3",
-"week":15,
-"weekday":2,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":15,
-"weekday":5,
-"session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":15,
-"weekday":5,
-"session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":15,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
-},{
-"className":"Additive Manufacturing",
-"week":16,
-"weekday":1,
-"session":2,
-"mtype":"L",
-"teacher":"ZHANG Min",
-"venue":"X1121"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":1,
-"session":6,
-"mtype":"L",
-"teacher":"ZENG Yikai",
-"venue":"X1121"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":1,
-"session":8,
-"mtype":"Lab（Group1）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":1,
-"session":9,
-"mtype":"Lab（Group1）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":1,
-"session":10,
-"mtype":"Lab（Group1）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Vehicle Design and Analysis",
-"week":16,
-"weekday":2,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X4359"
-},{
-"className":"Vehicle Design and Analysis",
-"week":16,
-"weekday":2,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X4359"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":2,
-"session":3,
-"mtype":"Lab（Group2）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":2,
-"session":4,
-"mtype":"Lab（Group2）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":2,
-"session":5,
-"mtype":"Lab（Group2）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":2,
-"session":8,
-"mtype":"Lab（Group3）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
 "weekday":2,
 "session":9,
-"mtype":"Lab（Group3）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":14,
 "weekday":2,
 "session":10,
-"mtype":"Lab（Group3）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1665",
+"week":14,
+"weekday":2,
+"session":11,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":14,
+"weekday":2,
+"session":12,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":14,
+"weekday":2,
+"session":13,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":14,
+"weekday":3,
+"session":1,
+"mtype":"T",
+"teacher":"YANG Xiaowei",
+"venue":"X9306"
+},{
+"className":"XJCV1560",
+"week":14,
+"weekday":3,
+"session":2,
+"mtype":"T",
+"teacher":"YANG Xiaowei",
+"venue":"X9306"
+},{
+"className":"XJCV1260",
+"week":14,
 "weekday":3,
 "session":3,
-"mtype":"Lab（Group4）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1260",
+"week":14,
 "weekday":3,
 "session":4,
-"mtype":"Lab（Group4）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1260",
+"week":14,
 "weekday":3,
 "session":5,
-"mtype":"Lab（Group4）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
 },{
-"className":"Individual Engineering Project",
-"week":16,
+"className":"XJCV1360",
+"week":14,
 "weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":14,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":14,
+"weekday":3,
+"session":8,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1160",
+"week":14,
+"weekday":3,
+"session":9,
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":14,
+"weekday":4,
+"session":3,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":14,
+"weekday":4,
+"session":4,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1260",
+"week":14,
+"weekday":4,
+"session":5,
+"mtype":"W/L",
+"teacher":"ZHONG Ping",
+"venue":"Arranged by the teacher"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":4,
+"session":8,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":4,
+"session":9,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":4,
+"session":10,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":14,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":14,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":14,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1260",
+"week":14,
+"weekday":5,
+"session":6,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1260",
+"week":14,
+"weekday":5,
+"session":7,
+"mtype":"L",
+"teacher":"ZHONG Ping",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":5,
+"session":8,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":5,
+"session":9,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":14,
+"weekday":5,
+"session":10,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":1,
+"session":3,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9506"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":1,
+"session":4,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9506"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":1,
+"session":5,
+"mtype":"L",
+"teacher":"Dariusz Wanatowski",
+"venue":"X9506"
+},{
+"className":"XJCV1360",
+"week":15,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":15,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":15,
+"weekday":2,
+"session":3,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":15,
+"weekday":2,
+"session":4,
+"mtype":"L",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":15,
+"weekday":2,
 "session":6,
 "mtype":"",
-"teacher":"Tanya Wallis",
-"venue":"X1121"
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":15,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":15,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":15,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":15,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1665",
+"week":15,
+"weekday":2,
+"session":11,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":15,
+"weekday":2,
+"session":12,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":15,
+"weekday":2,
+"session":13,
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":3,
+"session":3,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":3,
+"session":4,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":3,
+"session":5,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJFY1000",
+"week":15,
+"weekday":3,
+"session":6,
+"mtype":"T(Group1)",
+"teacher":"Tanya Wallis",
+"venue":"TBD"
+},{
+"className":"XJFY1000",
+"week":15,
+"weekday":3,
+"session":7,
+"mtype":"T(Group2)",
+"teacher":"Tanya Wallis",
+"venue":"TBD"
+},{
+"className":"XJCV1160",
+"week":15,
 "weekday":3,
 "session":8,
-"mtype":"Lab（Group5）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1160",
+"week":15,
 "weekday":3,
 "session":9,
-"mtype":"Lab（Group5）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"L",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":16,
-"weekday":3,
-"session":10,
-"mtype":"Lab（Group5）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1665",
+"week":15,
 "weekday":4,
 "session":3,
-"mtype":"Lab（Group6）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1665",
+"week":15,
 "weekday":4,
 "session":4,
-"mtype":"Lab（Group6）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":16,
+"className":"XJCV1665",
+"week":15,
 "weekday":4,
 "session":5,
-"mtype":"Lab（Group6）",
-"teacher":"ZENG Yikai",
-"venue":"Lab venue"
+"mtype":"T",
+"teacher":"ZHOU Sixiang",
+"venue":"X9406"
 },{
-"className":"Finite Element Methods of Analysis",
-"week":16,
+"className":"形势与政策3 Current Affairs 3",
+"week":15,
+"weekday":4,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":""
+},{
+"className":"形势与政策3 Current Affairs 3",
+"week":15,
+"weekday":4,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":15,
 "weekday":5,
 "session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"",
+"teacher":"",
+"venue":""
 },{
-"className":"Finite Element Methods of Analysis",
-"week":16,
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":15,
 "weekday":5,
 "session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
 },{
-"className":"Finite Element Methods of Analysis",
-"week":16,
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":15,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1665",
+"week":15,
 "weekday":5,
 "session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":17,
+"className":"XJCV1665",
+"week":15,
+"weekday":5,
+"session":7,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":5,
+"session":8,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":5,
+"session":9,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1460",
+"week":15,
+"weekday":5,
+"session":10,
+"mtype":"W/L(Lab)",
+"teacher":"ZHANG Jianjing",
+"venue":"土木工程实验教学中心"
+},{
+"className":"XJCV1360",
+"week":16,
 "weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":16,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":16,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":16,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":16,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":16,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":16,
+"weekday":2,
 "session":3,
 "mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":1,
+"className":"XJCV1560",
+"week":16,
+"weekday":2,
 "session":4,
 "mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":16,
+"weekday":2,
+"session":6,
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":16,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":16,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":16,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":16,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1560",
+"week":16,
+"weekday":3,
+"session":1,
+"mtype":"T",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1560",
+"week":16,
+"weekday":3,
+"session":2,
+"mtype":"T",
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":16,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":16,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":16,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":16,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":16,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":16,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":16,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":16,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1360",
 "week":17,
 "weekday":1,
-"session":5,
+"session":6,
 "mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1360",
 "week":17,
 "weekday":1,
 "session":7,
 "mtype":"L",
-"teacher":"TBD",
-"venue":"TBD"
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":1,
-"session":8,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":1,
-"session":9,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":1,
-"session":10,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":17,
 "weekday":2,
 "session":1,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Vehicle Design and Analysis",
+"className":"XJCV1360",
 "week":17,
 "weekday":2,
 "session":2,
-"mtype":"L",
-"teacher":"LIU Weiqun",
-"venue":"X9306"
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1560",
 "week":17,
 "weekday":2,
 "session":3,
 "mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"XJCV1560",
 "week":17,
 "weekday":2,
 "session":4,
 "mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
+"teacher":"YANG Xiaowei",
+"venue":"X9406"
 },{
-"className":"Thermofluids 3",
+"className":"体育Ⅲ Physical Education Ⅲ",
 "week":17,
 "weekday":2,
-"session":5,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":2,
-"session":8,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":2,
-"session":9,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":2,
-"session":10,
-"mtype":"L",
-"teacher":"Andrew Shires",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3（8:00-10:25)",
-"week":17,
-"weekday":3,
-"session":1,
-"mtype":"Lab（Group1）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（8:00-10:25)",
-"week":17,
-"weekday":3,
-"session":2,
-"mtype":"Lab（Group1）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（10:40-13:05)",
-"week":17,
-"weekday":3,
-"session":3,
-"mtype":"Lab（Group2）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（10:40-13:05)",
-"week":17,
-"weekday":3,
-"session":4,
-"mtype":"Lab（Group2）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（10:40-13:05)",
-"week":17,
-"weekday":3,
-"session":5,
-"mtype":"Lab（Group2）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":3,
-"session":8,
-"mtype":"Lab（Group3）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":3,
-"session":9,
-"mtype":"Lab（Group3）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":3,
-"session":10,
-"mtype":"Lab（Group3）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（8:00-10:25)",
-"week":17,
-"weekday":4,
-"session":1,
-"mtype":"Lab（Group4）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（8:00-10:25)",
-"week":17,
-"weekday":4,
-"session":2,
-"mtype":"Lab（Group4）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（10:40-13:05)",
-"week":17,
-"weekday":4,
-"session":3,
-"mtype":"Lab（Group5）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（10:40-13:05)",
-"week":17,
-"weekday":4,
-"session":4,
-"mtype":"Lab（Group5）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3（10:40-13:05)",
-"week":17,
-"weekday":4,
-"session":5,
-"mtype":"Lab（Group5）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":17,
-"weekday":5,
-"session":1,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X2211"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":17,
-"weekday":5,
-"session":2,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X2211"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":5,
-"session":3,
-"mtype":"Lab（Group6）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":5,
-"session":4,
-"mtype":"Lab（Group6）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Thermofluids 3",
-"week":17,
-"weekday":5,
-"session":5,
-"mtype":"Lab（Group6）",
-"teacher":"Andrew Shires",
-"venue":"Lab venue"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":17,
-"weekday":5,
 "session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
+"mtype":"",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"体育Ⅲ Physical Education Ⅲ",
+"week":17,
+"weekday":2,
+"session":7,
+"mtype":"None",
+"teacher":"TBD",
+"venue":"北区田径场(犀浦)"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":17,
+"weekday":2,
+"session":8,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":17,
+"weekday":2,
+"session":9,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"毛泽东思想和中国特色社会主义理论体系概论Ⅰ Introduction to Mao Zedong Thought and Theories of Socialism with Chinese Characteristics I",
+"week":17,
+"weekday":2,
+"session":10,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1360",
+"week":17,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":17,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":17,
+"weekday":5,
+"session":3,
+"mtype":"",
+"teacher":"",
+"venue":""
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":17,
+"weekday":5,
+"session":4,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"马克思主义基本原理 The Basic Principles of Marxism",
+"week":17,
+"weekday":5,
+"session":5,
+"mtype":"None",
+"teacher":"None",
+"venue":"None"
+},{
+"className":"XJCV1665",
+"week":17,
+"weekday":5,
+"session":8,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":17,
+"weekday":5,
+"session":9,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9306"
+},{
+"className":"XJCV1665",
+"week":17,
+"weekday":5,
+"session":10,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9306"
+},{
+"className":"XJCV1360",
+"week":18,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":18,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":18,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":18,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":18,
+"weekday":3,
+"session":6,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":18,
+"weekday":3,
+"session":7,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":18,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":18,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":18,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":19,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":19,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":19,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":19,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":19,
+"weekday":2,
+"session":3,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":19,
+"weekday":2,
+"session":4,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":1,
+"session":6,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":1,
+"session":7,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":1,
+"session":8,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":1,
+"session":9,
+"mtype":"L",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":2,
+"session":1,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":2,
+"session":2,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":2,
+"session":3,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1360",
+"week":20,
+"weekday":2,
+"session":4,
+"mtype":"T",
+"teacher":"WU Shouxin",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":3,
+"session":8,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":3,
+"session":9,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":3,
+"session":10,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":4,
+"session":3,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":4,
+"session":4,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":4,
+"session":5,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
+},{
+"className":"XJCV1665",
+"week":20,
+"weekday":5,
+"session":8,
+"mtype":"T",
+"teacher":"YANG Shunsheng",
+"venue":"X9406"
 }]
 }

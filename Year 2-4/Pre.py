@@ -8,7 +8,7 @@ import importlib
 
 def main():
     # 读取 excel 文件
-    workbook = xlrd.open_workbook('MEY4.xlsx')
+    workbook = xlrd.open_workbook('CEY2.xlsx')
 
     headStr = '{\n"classInfo":[\n'
     tailStr = ']\n}'
@@ -26,7 +26,7 @@ def main():
         numOfRow = sheet.nrows
         numOfCol = sheet.ncols
         weekday = 0
-        for ci in range(1,21,4):
+        for ci in range(1,29,4):
             weekday = weekday+1
             #print(weekday)
             sessionlist = []
@@ -36,7 +36,7 @@ def main():
             venue = []
 
             for ri in range(2,19):
-#                print(ri)
+                #print(ri)
                 if (sheet.cell(ri, ci).value is None or sheet.cell(ri, ci).value == ''):
                     if get_merged_cells_value(sheet, ri, ci):
                         if (get_merged_cells_value(sheet, ri, ci) == '体育'):
@@ -69,10 +69,10 @@ def main():
                         mtype.append(str(sheet.cell(ri, ci+1).value))
                         teacher.append(str(sheet.cell(ri, ci+2).value))
                         venue.append(str(sheet.cell(ri, ci+3).value))
-            module = list(map(lambda x: x.replace('\n', ' ').replace('）', ')').replace('，', ',').replace('  ', ' ').replace('XJME3470', 'Vehicle Design and Analysis').replace('XJME3890', 'Individual Engineering Project').replace('XJME3496', 'Thermofluids 3').replace('XJME3900', 'Finite Element Methods of Analysis').replace('XJME3775', 'Additive Manufacturing').replace('形势与政策7 Current Affairs7', '形势与政策7'), module))
-            teacher = list(map(lambda x: x.replace('\n', ' ').replace('  ', ' '), teacher))
-            mtype = list(map(lambda x: x.replace('\n', ' ').replace('  ', ' '), mtype))
-            venue = list(map(lambda x: x.replace('\n', ' ').replace('  ', ' '), venue))
+            module = list(map(lambda x: x.replace('\n', ' ').replace('）', ')').replace('，', ',').replace('（', '(').replace('  ', ' ').replace('XJME3470', 'Vehicle Design and Analysis').replace('XJME3890', 'Individual Engineering Project').replace('XJME3496', 'Thermofluids 3').replace('XJME3900', 'Finite Element Methods of Analysis').replace('XJME3775', 'Additive Manufacturing').replace('形势与政策7 Current Affairs7', '形势与政策7'), module))
+            teacher = list(map(lambda x: x.replace('\n', ' ').replace('  ', ' ').replace('）', ')').replace('（', '(').replace('，', ','), teacher))
+            mtype = list(map(lambda x: x.replace('\n', ' ').replace('  ', ' ').replace('）', ')').replace('（', '(').replace('，', ','), mtype))
+            venue = list(map(lambda x: x.replace('\n', ' ').replace('  ', ' ').replace('）', ')').replace('（', '(').replace('，', ','), venue))
             i = 0
             for className in module:
                 itemClassInfoStr = ""
