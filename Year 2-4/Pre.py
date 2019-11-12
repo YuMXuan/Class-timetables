@@ -8,7 +8,7 @@ import importlib
 
 def main():
     # 读取 excel 文件
-    workbook = xlrd.open_workbook('CEY2.xlsx')
+    workbook = xlrd.open_workbook('MEY4.xlsx')
 
     headStr = '{\n"classInfo":[\n'
     tailStr = ']\n}'
