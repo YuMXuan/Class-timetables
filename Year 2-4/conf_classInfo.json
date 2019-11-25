@@ -1247,31 +1247,7 @@
 "session":8,
 "mtype":"",
 "teacher":"Tanya Wallis",
-"venue":"X1121"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":14,
-"weekday":5,
-"session":3,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":14,
-"weekday":5,
-"session":4,
-"mtype":"L",
-"teacher":"LIU Jiantao",
-"venue":"X9306"
-},{
-"className":"Finite Element Methods of Analysis",
-"week":14,
-"weekday":5,
-"session":6,
-"mtype":"Lab",
-"teacher":"LIU Jiantao",
-"venue":"X7304"
+"venue":"X9402"
 },{
 "className":"Additive Manufacturing",
 "week":15,
