@@ -1257,6 +1257,30 @@
 "teacher":"ZHANG Min",
 "venue":"X1121"
 },{
+"className":"Finite Element Methods of Analysis",
+"week":15,
+"weekday":1,
+"session":3,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":15,
+"weekday":1,
+"session":4,
+"mtype":"L",
+"teacher":"LIU Jiantao",
+"venue":"X1121"
+},{
+"className":"Finite Element Methods of Analysis",
+"week":15,
+"weekday":1,
+"session":6,
+"mtype":"Lab",
+"teacher":"LIU Jiantao",
+"venue":"X7304"
+},{
 "className":"Vehicle Design and Analysis",
 "week":15,
 "weekday":2,
